@@ -1,0 +1,12 @@
+services:
+- postgresql
+before_script:
+- psql -c 'create database insider_test;' -U postgres
+language: ruby
+script:
+  - export RAILS_ENV=insider_test
+  - bundle exec rake db:create db:schema:load db:test:prepare
+  - bundle exec rspec
+rvm:
+- 2.3.1
+sudo: required
