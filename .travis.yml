@@ -9,3 +9,4 @@ script:
   - bundle exec rspec
 rvm:
 - 2.3.1
+sudo: required
