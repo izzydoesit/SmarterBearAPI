@@ -1,0 +1,2341 @@
+{
+    "debug": {
+        "sortby": "filerid asc",
+        "issuenames": "*panera*",
+        "limit": "25",
+        "offset": "0",
+        "fields": "!filerCity,!filerStateid,!filerState,!filerZip,!filerPhone,!issueCity,!issueStateid,!issueState,!issueZip,QueryDate,filerID,FilerName,transactionDate,TransactionPriceFrom,TransactionPriceTo,transactionTypeid,transactionType,currency,currencyid,ownershipTypeid,OwnershipType,insiderformtypeid,insiderFormType,relationship,Issueid,issuename,issueTicker,issuerDescription,pricedate,price,isActive,issuetypeid,issueType,exchangeid,ExchangeName,marketoperator,marketoperatorid,markettier,markettierid,dcn,filingid,rownumber"
+    },
+    "result": {
+        "totalrows": 255,
+        "rows": [{
+            "rownum": 1,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 38564
+            }, {
+                "field": "filername",
+                "value": "SHAICH RONALD M"
+            }, {
+                "field": "transactiondate",
+                "value": "8/2/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-135448"
+            }, {
+                "field": "filingid",
+                "value": 3056651
+            }]
+        }, {
+            "rownum": 2,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 38564
+            }, {
+                "field": "filername",
+                "value": "SHAICH RONALD M"
+            }, {
+                "field": "transactiondate",
+                "value": "5/3/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 215.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-117331"
+            }, {
+                "field": "filingid",
+                "value": 3003400
+            }]
+        }, {
+            "rownum": 3,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 38564
+            }, {
+                "field": "filername",
+                "value": "SHAICH RONALD M"
+            }, {
+                "field": "transactiondate",
+                "value": "5/9/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 215.09
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-118810"
+            }, {
+                "field": "filingid",
+                "value": 3007714
+            }]
+        }, {
+            "rownum": 4,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 38564
+            }, {
+                "field": "filername",
+                "value": "SHAICH RONALD M"
+            }, {
+                "field": "transactiondate",
+                "value": "8/5/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-064573"
+            }, {
+                "field": "filingid",
+                "value": 2836085
+            }]
+        }, {
+            "rownum": 5,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 38564
+            }, {
+                "field": "filername",
+                "value": "SHAICH RONALD M"
+            }, {
+                "field": "transactiondate",
+                "value": "2/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-020602"
+            }, {
+                "field": "filingid",
+                "value": 2728976
+            }]
+        }, {
+            "rownum": 6,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 38564
+            }, {
+                "field": "filername",
+                "value": "SHAICH RONALD M"
+            }, {
+                "field": "transactiondate",
+                "value": "5/2/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 215.11
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-117331"
+            }, {
+                "field": "filingid",
+                "value": 3003399
+            }]
+        }, {
+            "rownum": 7,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 38564
+            }, {
+                "field": "filername",
+                "value": "SHAICH RONALD M"
+            }, {
+                "field": "transactiondate",
+                "value": "5/5/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 215.01
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-118477"
+            }, {
+                "field": "filingid",
+                "value": 3006785
+            }]
+        }, {
+            "rownum": 8,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 106880
+            }, {
+                "field": "filername",
+                "value": "MADSEN ANDREW H"
+            }, {
+                "field": "transactiondate",
+                "value": "5/20/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-046204"
+            }, {
+                "field": "filingid",
+                "value": 2792727
+            }]
+        }, {
+            "rownum": 9,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 106880
+            }, {
+                "field": "filername",
+                "value": "MADSEN ANDREW H"
+            }, {
+                "field": "transactiondate",
+                "value": "8/5/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-064501"
+            }, {
+                "field": "filingid",
+                "value": 2835992
+            }]
+        }, {
+            "rownum": 10,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 106880
+            }, {
+                "field": "filername",
+                "value": "MADSEN ANDREW H"
+            }, {
+                "field": "transactiondate",
+                "value": "5/20/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 211.13
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-122870"
+            }, {
+                "field": "filingid",
+                "value": 3018835
+            }]
+        }, {
+            "rownum": 11,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 106880
+            }, {
+                "field": "filername",
+                "value": "MADSEN ANDREW H"
+            }, {
+                "field": "transactiondate",
+                "value": "8/2/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-135437"
+            }, {
+                "field": "filingid",
+                "value": 3056639
+            }]
+        }, {
+            "rownum": 12,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 411714
+            }, {
+                "field": "filername",
+                "value": "FOULKES FRED K"
+            }, {
+                "field": "transactiondate",
+                "value": "12/31/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-000051"
+            }, {
+                "field": "filingid",
+                "value": 2674480
+            }]
+        }, {
+            "rownum": 13,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 411714
+            }, {
+                "field": "filername",
+                "value": "FOULKES FRED K"
+            }, {
+                "field": "transactiondate",
+                "value": "11/19/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 172.6
+            }, {
+                "field": "transactionpriceto",
+                "value": 172.61
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-081739"
+            }, {
+                "field": "filingid",
+                "value": 2891050
+            }]
+        }, {
+            "rownum": 14,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 411714
+            }, {
+                "field": "filername",
+                "value": "FOULKES FRED K"
+            }, {
+                "field": "transactiondate",
+                "value": "11/19/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 52.24
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-14-070598"
+            }, {
+                "field": "filingid",
+                "value": 2649156
+            }]
+        }, {
+            "rownum": 15,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 411714
+            }, {
+                "field": "filername",
+                "value": "FOULKES FRED K"
+            }, {
+                "field": "transactiondate",
+                "value": "12/30/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-087642"
+            }, {
+                "field": "filingid",
+                "value": 2912966
+            }]
+        }, {
+            "rownum": 16,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 411714
+            }, {
+                "field": "filername",
+                "value": "FOULKES FRED K"
+            }, {
+                "field": "transactiondate",
+                "value": "11/19/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 168.71
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-14-070598"
+            }, {
+                "field": "filingid",
+                "value": 2649155
+            }]
+        }, {
+            "rownum": 17,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 411714
+            }, {
+                "field": "filername",
+                "value": "FOULKES FRED K"
+            }, {
+                "field": "transactiondate",
+                "value": "11/19/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 67.94
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-081739"
+            }, {
+                "field": "filingid",
+                "value": 2891051
+            }]
+        }, {
+            "rownum": 18,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612636
+            }, {
+                "field": "filername",
+                "value": "COLASACCO DOMENIC"
+            }, {
+                "field": "transactiondate",
+                "value": "12/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 67.94
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-083464"
+            }, {
+                "field": "filingid",
+                "value": 2898379
+            }]
+        }, {
+            "rownum": 19,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612636
+            }, {
+                "field": "filername",
+                "value": "COLASACCO DOMENIC"
+            }, {
+                "field": "transactiondate",
+                "value": "12/30/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-087637"
+            }, {
+                "field": "filingid",
+                "value": 2912963
+            }]
+        }, {
+            "rownum": 20,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612636
+            }, {
+                "field": "filername",
+                "value": "COLASACCO DOMENIC"
+            }, {
+                "field": "transactiondate",
+                "value": "12/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 182.18
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-083464"
+            }, {
+                "field": "filingid",
+                "value": 2898378
+            }]
+        }, {
+            "rownum": 21,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612636
+            }, {
+                "field": "filername",
+                "value": "COLASACCO DOMENIC"
+            }, {
+                "field": "transactiondate",
+                "value": "12/31/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-000049"
+            }, {
+                "field": "filingid",
+                "value": 2674473
+            }]
+        }, {
+            "rownum": 22,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612636
+            }, {
+                "field": "filername",
+                "value": "COLASACCO DOMENIC"
+            }, {
+                "field": "transactiondate",
+                "value": "11/5/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 52.24
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-14-067389"
+            }, {
+                "field": "filingid",
+                "value": 2638915
+            }]
+        }, {
+            "rownum": 23,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612636
+            }, {
+                "field": "filername",
+                "value": "COLASACCO DOMENIC"
+            }, {
+                "field": "transactiondate",
+                "value": "11/5/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 166.92
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-14-067389"
+            }, {
+                "field": "filingid",
+                "value": 2638914
+            }]
+        }, {
+            "rownum": 24,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612650
+            }, {
+                "field": "filername",
+                "value": "FRANKLIN LARRY J"
+            }, {
+                "field": "transactiondate",
+                "value": "12/30/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-087644"
+            }, {
+                "field": "filingid",
+                "value": 2912975
+            }]
+        }, {
+            "rownum": 25,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:36 PM"
+            }, {
+                "field": "filerid",
+                "value": 612650
+            }, {
+                "field": "filername",
+                "value": "FRANKLIN LARRY J"
+            }, {
+                "field": "transactiondate",
+                "value": "12/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 67.94
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 527179
+            }, {
+                "field": "issuename",
+                "value": "PANERA BREAD CO"
+            }, {
+                "field": "issueticker",
+                "value": "PNRA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 190.43
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-083466"
+            }, {
+                "field": "filingid",
+                "value": 2898383
+            }]
+        }]
+    }
+}

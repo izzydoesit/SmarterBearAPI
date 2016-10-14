@@ -1,0 +1,103 @@
+{
+    "debug": {
+        "sortby": "filerid asc",
+        "issuenames": "*Coupa Software*",
+        "limit": "25",
+        "offset": "0",
+        "fields": "!filerCity,!filerStateid,!filerState,!filerZip,!filerPhone,!issueCity,!issueStateid,!issueState,!issueZip,QueryDate,filerID,FilerName,transactionDate,TransactionPriceFrom,TransactionPriceTo,transactionTypeid,transactionType,currency,currencyid,ownershipTypeid,OwnershipType,insiderformtypeid,insiderFormType,relationship,Issueid,issuename,issueTicker,issuerDescription,pricedate,price,isActive,issuetypeid,issueType,exchangeid,ExchangeName,marketoperator,marketoperatorid,markettier,markettierid,dcn,filingid,rownumber"
+    },
+    "result": {
+        "totalrows": 1,
+        "rows": [{
+            "rownum": 1,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:32 PM"
+            }, {
+                "field": "filerid",
+                "value": 1005134
+            }, {
+                "field": "filername",
+                "value": "BRV PARTNERS, L.L.C."
+            }, {
+                "field": "transactiondate",
+                "value": "10/12/2016"
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Beneficial Owner (10%)"
+            }, {
+                "field": "issueid",
+                "value": 1433095
+            }, {
+                "field": "issuename",
+                "value": "COUPA SOFTWARE INC"
+            }, {
+                "field": "issueticker",
+                "value": "COUP"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 29.25
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-145733"
+            }, {
+                "field": "filingid",
+                "value": 3091752
+            }]
+        }]
+    }
+}
