@@ -4,9 +4,9 @@ before_script:
 - psql -c 'create database insiderAPI_test;' -U postgres
 # - cp config/database.yml.travis config/database.yml
 language: ruby
-# script:
-#   - export RAILS_ENV=insider_test
-#   - RAILS_ENV=test bundle exec rails c
+script:
+#   - export RAILS_ENV=insiderAPI_test
+# #   - RAILS_ENV=test bundle exec rails c
 #   - bundle exec rake db:create 
 #   - bundle exec rake db:schema:load 
 #   - bundle exec rake db:test:prepare
