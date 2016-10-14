@@ -8,7 +8,7 @@ before_script:
 
 # - cp config/database.yml.travis config/database.yml
 language: ruby
-script: bundle exec rspec
+script: bundle exec rspec spec
 #   - export RAILS_ENV=insiderAPI_test
 # # #   - RAILS_ENV=test bundle exec rails c
 #   # - bundle exec rake db:create 
