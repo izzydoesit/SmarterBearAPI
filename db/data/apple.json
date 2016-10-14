@@ -1,0 +1,2335 @@
+{
+    "debug": {
+        "sortby": "filerid asc",
+        "issuenames": "*apple*",
+        "limit": "25",
+        "offset": "0",
+        "fields": "!filerCity,!filerStateid,!filerState,!filerZip,!filerPhone,!issueCity,!issueStateid,!issueState,!issueZip,QueryDate,filerID,FilerName,transactionDate,TransactionPriceFrom,TransactionPriceTo,transactionTypeid,transactionType,currency,currencyid,ownershipTypeid,OwnershipType,insiderformtypeid,insiderFormType,relationship,Issueid,issuename,issueTicker,issuerDescription,pricedate,price,isActive,issuetypeid,issueType,exchangeid,ExchangeName,marketoperator,marketoperatorid,markettier,markettierid,dcn,filingid,rownumber"
+    },
+    "result": {
+        "totalrows": 598,
+        "rows": [{
+            "rownum": 1,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50585
+            }, {
+                "field": "filername",
+                "value": "WAGNER SUSAN"
+            }, {
+                "field": "transactiondate",
+                "value": "2/1/2015"
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 472683
+            }, {
+                "field": "issuename",
+                "value": "APPLE INC"
+            }, {
+                "field": "issueticker",
+                "value": "AAPL"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 117.34
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001181431-15-001898"
+            }, {
+                "field": "filingid",
+                "value": 2697817
+            }]
+        }, {
+            "rownum": 2,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50585
+            }, {
+                "field": "filername",
+                "value": "WAGNER SUSAN"
+            }, {
+                "field": "transactiondate",
+                "value": "7/27/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 122.9
+            }, {
+                "field": "transactiontypeid",
+                "value": 1
+            }, {
+                "field": "transactiontype",
+                "value": "Buy"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 472683
+            }, {
+                "field": "issuename",
+                "value": "APPLE INC"
+            }, {
+                "field": "issueticker",
+                "value": "AAPL"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 117.34
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0000899243-15-001800"
+            }, {
+                "field": "filingid",
+                "value": 2829748
+            }]
+        }, {
+            "rownum": 3,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50585
+            }, {
+                "field": "filername",
+                "value": "WAGNER SUSAN"
+            }, {
+                "field": "transactiondate",
+                "value": "7/24/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 124.12
+            }, {
+                "field": "transactionpriceto",
+                "value": 124.34
+            }, {
+                "field": "transactiontypeid",
+                "value": 1
+            }, {
+                "field": "transactiontype",
+                "value": "Buy"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 472683
+            }, {
+                "field": "issuename",
+                "value": "APPLE INC"
+            }, {
+                "field": "issueticker",
+                "value": "AAPL"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 117.34
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0000899243-15-001800"
+            }, {
+                "field": "filingid",
+                "value": 2829747
+            }]
+        }, {
+            "rownum": 4,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50585
+            }, {
+                "field": "filername",
+                "value": "WAGNER SUSAN"
+            }, {
+                "field": "transactiondate",
+                "value": "2/1/2016"
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 472683
+            }, {
+                "field": "issuename",
+                "value": "APPLE INC"
+            }, {
+                "field": "issueticker",
+                "value": "AAPL"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 117.34
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-095503"
+            }, {
+                "field": "filingid",
+                "value": 2935149
+            }]
+        }, {
+            "rownum": 5,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50741
+            }, {
+                "field": "filername",
+                "value": "ROCHE JOYCE M"
+            }, {
+                "field": "transactiondate",
+                "value": "12/3/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-083618"
+            }, {
+                "field": "filingid",
+                "value": 2898970
+            }]
+        }, {
+            "rownum": 6,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50741
+            }, {
+                "field": "filername",
+                "value": "ROCHE JOYCE M"
+            }, {
+                "field": "transactiondate",
+                "value": "2/19/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-100951"
+            }, {
+                "field": "filingid",
+                "value": 2951376
+            }]
+        }, {
+            "rownum": 7,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50741
+            }, {
+                "field": "filername",
+                "value": "ROCHE JOYCE M"
+            }, {
+                "field": "transactiondate",
+                "value": "3/4/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-105896"
+            }, {
+                "field": "filingid",
+                "value": 2967549
+            }]
+        }, {
+            "rownum": 8,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50741
+            }, {
+                "field": "filername",
+                "value": "ROCHE JOYCE M"
+            }, {
+                "field": "transactiondate",
+                "value": "3/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-021959"
+            }, {
+                "field": "filingid",
+                "value": 2732543
+            }]
+        }, {
+            "rownum": 9,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50741
+            }, {
+                "field": "filername",
+                "value": "ROCHE JOYCE M"
+            }, {
+                "field": "transactiondate",
+                "value": "3/4/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-105896"
+            }, {
+                "field": "filingid",
+                "value": 2967548
+            }]
+        }, {
+            "rownum": 10,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 50741
+            }, {
+                "field": "filername",
+                "value": "ROCHE JOYCE M"
+            }, {
+                "field": "transactiondate",
+                "value": "5/6/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-118491"
+            }, {
+                "field": "filingid",
+                "value": 3006832
+            }]
+        }, {
+            "rownum": 11,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 67281
+            }, {
+                "field": "filername",
+                "value": "CASE STEPHEN M"
+            }, {
+                "field": "transactiondate",
+                "value": "6/30/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 5.52
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 515208
+            }, {
+                "field": "issuename",
+                "value": "MAUI LAND & PINEAPPLE CO INC"
+            }, {
+                "field": "issueticker",
+                "value": "MLP"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 6.68
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001179110-16-027368"
+            }, {
+                "field": "filingid",
+                "value": 3043068
+            }]
+        }, {
+            "rownum": 12,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 67281
+            }, {
+                "field": "filername",
+                "value": "CASE STEPHEN M"
+            }, {
+                "field": "transactiondate",
+                "value": "6/1/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 5.88
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 515208
+            }, {
+                "field": "issuename",
+                "value": "MAUI LAND & PINEAPPLE CO INC"
+            }, {
+                "field": "issueticker",
+                "value": "MLP"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 6.68
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001179110-15-009000"
+            }, {
+                "field": "filingid",
+                "value": 2800446
+            }]
+        }, {
+            "rownum": 13,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "12/14/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-085586"
+            }, {
+                "field": "filingid",
+                "value": 2905699
+            }]
+        }, {
+            "rownum": 14,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "3/3/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-021963"
+            }, {
+                "field": "filingid",
+                "value": 2732547
+            }]
+        }, {
+            "rownum": 15,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "12/8/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 91.5764
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-084153"
+            }, {
+                "field": "filingid",
+                "value": 2900855
+            }]
+        }, {
+            "rownum": 16,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "1/25/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-093821"
+            }, {
+                "field": "filingid",
+                "value": 2928913
+            }]
+        }, {
+            "rownum": 17,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "5/11/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 94.7697
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-120003"
+            }, {
+                "field": "filingid",
+                "value": 3011089
+            }]
+        }, {
+            "rownum": 18,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "3/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-021963"
+            }, {
+                "field": "filingid",
+                "value": 2732546
+            }]
+        }, {
+            "rownum": 19,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "3/3/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-021963"
+            }, {
+                "field": "filingid",
+                "value": 2732548
+            }]
+        }, {
+            "rownum": 20,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "10/23/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 89.69
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-076761"
+            }, {
+                "field": "filingid",
+                "value": 2873542
+            }]
+        }, {
+            "rownum": 21,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "12/14/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-085586"
+            }, {
+                "field": "filingid",
+                "value": 2905700
+            }]
+        }, {
+            "rownum": 22,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "3/4/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-105860"
+            }, {
+                "field": "filingid",
+                "value": 2967511
+            }]
+        }, {
+            "rownum": 23,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "3/4/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-105860"
+            }, {
+                "field": "filingid",
+                "value": 2967512
+            }]
+        }, {
+            "rownum": 24,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "3/4/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-105860"
+            }, {
+                "field": "filingid",
+                "value": 2967513
+            }]
+        }, {
+            "rownum": 25,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:16 PM"
+            }, {
+                "field": "filerid",
+                "value": 69876
+            }, {
+                "field": "filername",
+                "value": "SZOSTAK M ANNE"
+            }, {
+                "field": "transactiondate",
+                "value": "1/25/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 995378
+            }, {
+                "field": "issuename",
+                "value": "DR PEPPER SNAPPLE GROUP, INC."
+            }, {
+                "field": "issueticker",
+                "value": "DPS"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 87.35
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 1
+            }, {
+                "field": "exchangename",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperator",
+                "value": "NYSE"
+            }, {
+                "field": "marketoperatorid",
+                "value": 1
+            }, {
+                "field": "markettier",
+                "value": "NYSE"
+            }, {
+                "field": "markettierid",
+                "value": 1
+            }, {
+                "field": "dcn",
+                "value": "0001209191-16-093821"
+            }, {
+                "field": "filingid",
+                "value": 2928912
+            }]
+        }]
+    }
+}

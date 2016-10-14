@@ -1,0 +1,2344 @@
+{
+    "debug": {
+        "sortby": "filerid asc",
+        "issuenames": "*Sabre Corp*",
+        "limit": "25",
+        "offset": "0",
+        "fields": "!filerCity,!filerStateid,!filerState,!filerZip,!filerPhone,!issueCity,!issueStateid,!issueState,!issueZip,QueryDate,filerID,FilerName,transactionDate,TransactionPriceFrom,TransactionPriceTo,transactionTypeid,transactionType,currency,currencyid,ownershipTypeid,OwnershipType,insiderformtypeid,insiderFormType,relationship,Issueid,issuename,issueTicker,issuerDescription,pricedate,price,isActive,issuetypeid,issueType,exchangeid,ExchangeName,marketoperator,marketoperatorid,markettier,markettierid,dcn,filingid,rownumber"
+    },
+    "result": {
+        "totalrows": 222,
+        "rows": [{
+            "rownum": 1,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 38558
+            }, {
+                "field": "filername",
+                "value": "ODOM JUDY C"
+            }, {
+                "field": "transactiondate",
+                "value": "3/13/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-027177"
+            }, {
+                "field": "filingid",
+                "value": 2747021
+            }]
+        }, {
+            "rownum": 2,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 38558
+            }, {
+                "field": "filername",
+                "value": "ODOM JUDY C"
+            }, {
+                "field": "transactiondate",
+                "value": "6/30/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 26.79
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000230"
+            }, {
+                "field": "filingid",
+                "value": 3040985
+            }]
+        }, {
+            "rownum": 3,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 38558
+            }, {
+                "field": "filername",
+                "value": "ODOM JUDY C"
+            }, {
+                "field": "transactiondate",
+                "value": "3/30/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 28.68
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000186"
+            }, {
+                "field": "filingid",
+                "value": 2985539
+            }]
+        }, {
+            "rownum": 4,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 38558
+            }, {
+                "field": "filername",
+                "value": "ODOM JUDY C"
+            }, {
+                "field": "transactiondate",
+                "value": "9/30/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 28.18
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000273"
+            }, {
+                "field": "filingid",
+                "value": 3086606
+            }]
+        }, {
+            "rownum": 5,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 38558
+            }, {
+                "field": "filername",
+                "value": "ODOM JUDY C"
+            }, {
+                "field": "transactiondate",
+                "value": "3/15/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000152"
+            }, {
+                "field": "filingid",
+                "value": 2978721
+            }]
+        }, {
+            "rownum": 6,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 384102
+            }, {
+                "field": "filername",
+                "value": "KUSIN GARY M"
+            }, {
+                "field": "transactiondate",
+                "value": "3/15/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000150"
+            }, {
+                "field": "filingid",
+                "value": 2978712
+            }]
+        }, {
+            "rownum": 7,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 384102
+            }, {
+                "field": "filername",
+                "value": "KUSIN GARY M"
+            }, {
+                "field": "transactiondate",
+                "value": "3/13/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-027187"
+            }, {
+                "field": "filingid",
+                "value": 2747054
+            }]
+        }, {
+            "rownum": 8,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "9/19/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 26.9599
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000261"
+            }, {
+                "field": "filingid",
+                "value": 3081643
+            }]
+        }, {
+            "rownum": 9,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "12/16/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 29.1359
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-15-000104"
+            }, {
+                "field": "filingid",
+                "value": 2906601
+            }]
+        }, {
+            "rownum": 10,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "7/6/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 26.9759
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000241"
+            }, {
+                "field": "filingid",
+                "value": 3045359
+            }]
+        }, {
+            "rownum": 11,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "8/3/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 3.0
+            }, {
+                "field": "transactionpriceto",
+                "value": 5.23
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000253"
+            }, {
+                "field": "filingid",
+                "value": 3056785
+            }]
+        }, {
+            "rownum": 12,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "3/15/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 27.79
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000160"
+            }, {
+                "field": "filingid",
+                "value": 2978792
+            }]
+        }, {
+            "rownum": 13,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "6/1/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 3.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000224"
+            }, {
+                "field": "filingid",
+                "value": 3025490
+            }]
+        }, {
+            "rownum": 14,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "3/15/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 22.15
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-027129"
+            }, {
+                "field": "filingid",
+                "value": 2746824
+            }]
+        }, {
+            "rownum": 15,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "8/3/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 26.6826
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000253"
+            }, {
+                "field": "filingid",
+                "value": 3056784
+            }]
+        }, {
+            "rownum": 16,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "10/4/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 27.528199999999998
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000277"
+            }, {
+                "field": "filingid",
+                "value": 3089447
+            }]
+        }, {
+            "rownum": 17,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "2/10/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 20.0237
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0000903423-15-000098"
+            }, {
+                "field": "filingid",
+                "value": 2705726
+            }]
+        }, {
+            "rownum": 18,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "3/15/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000160"
+            }, {
+                "field": "filingid",
+                "value": 2978791
+            }]
+        }, {
+            "rownum": 19,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "2/9/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 3.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000125"
+            }, {
+                "field": "filingid",
+                "value": 2941117
+            }]
+        }, {
+            "rownum": 20,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "1/8/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 3.0
+            }, {
+                "field": "transactionpriceto",
+                "value": 5.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000113"
+            }, {
+                "field": "filingid",
+                "value": 2921678
+            }]
+        }, {
+            "rownum": 21,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "8/24/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 5.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-15-000034"
+            }, {
+                "field": "filingid",
+                "value": 2848006
+            }]
+        }, {
+            "rownum": 22,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "6/23/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 5.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-15-000007"
+            }, {
+                "field": "filingid",
+                "value": 2814148
+            }]
+        }, {
+            "rownum": 23,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "5/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 5.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001628280-15-004551"
+            }, {
+                "field": "filingid",
+                "value": 2796063
+            }]
+        }, {
+            "rownum": 24,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "5/6/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 5.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001209191-15-040548"
+            }, {
+                "field": "filingid",
+                "value": 2779392
+            }]
+        }, {
+            "rownum": 25,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:23 PM"
+            }, {
+                "field": "filerid",
+                "value": 392076
+            }, {
+                "field": "filername",
+                "value": "JONES HUGH W"
+            }, {
+                "field": "transactiondate",
+                "value": "6/1/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 27.9601
+            }, {
+                "field": "transactiontypeid",
+                "value": 9
+            }, {
+                "field": "transactiontype",
+                "value": "Automatic Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 1306097
+            }, {
+                "field": "issuename",
+                "value": "SABRE CORP"
+            }, {
+                "field": "issueticker",
+                "value": "SABR"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 26.56
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001597033-16-000224"
+            }, {
+                "field": "filingid",
+                "value": 3025489
+            }]
+        }]
+    }
+}

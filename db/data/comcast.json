@@ -1,0 +1,2338 @@
+{
+    "debug": {
+        "sortby": "filerid asc",
+        "issuenames": "*Comcast*",
+        "limit": "25",
+        "offset": "0",
+        "fields": "!filerCity,!filerStateid,!filerState,!filerZip,!filerPhone,!issueCity,!issueStateid,!issueState,!issueZip,QueryDate,filerID,FilerName,transactionDate,TransactionPriceFrom,TransactionPriceTo,transactionTypeid,transactionType,currency,currencyid,ownershipTypeid,OwnershipType,insiderformtypeid,insiderFormType,relationship,Issueid,issuename,issueTicker,issuerDescription,pricedate,price,isActive,issuetypeid,issueType,exchangeid,ExchangeName,marketoperator,marketoperatorid,markettier,markettierid,dcn,filingid,rownumber"
+    },
+    "result": {
+        "totalrows": 380,
+        "rows": [{
+            "rownum": 1,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 26506
+            }, {
+                "field": "filername",
+                "value": "ROBERTS RALPH J"
+            }, {
+                "field": "transactiondate",
+                "value": "5/8/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 58.2765
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-011936"
+            }, {
+                "field": "filingid",
+                "value": 2781491
+            }]
+        }, {
+            "rownum": 2,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 26506
+            }, {
+                "field": "filername",
+                "value": "ROBERTS RALPH J"
+            }, {
+                "field": "transactiondate",
+                "value": "2/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 22.66
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-006335"
+            }, {
+                "field": "filingid",
+                "value": 2727908
+            }]
+        }, {
+            "rownum": 3,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 26506
+            }, {
+                "field": "filername",
+                "value": "ROBERTS RALPH J"
+            }, {
+                "field": "transactiondate",
+                "value": "1/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-006335"
+            }, {
+                "field": "filingid",
+                "value": 2727907
+            }]
+        }, {
+            "rownum": 4,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 26506
+            }, {
+                "field": "filername",
+                "value": "ROBERTS RALPH J"
+            }, {
+                "field": "transactiondate",
+                "value": "2/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 59.07
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-006335"
+            }, {
+                "field": "filingid",
+                "value": 2727906
+            }]
+        }, {
+            "rownum": 5,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 26506
+            }, {
+                "field": "filername",
+                "value": "ROBERTS RALPH J"
+            }, {
+                "field": "transactiondate",
+                "value": "1/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-000755"
+            }, {
+                "field": "filingid",
+                "value": 2679565
+            }]
+        }, {
+            "rownum": 6,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 26506
+            }, {
+                "field": "filername",
+                "value": "ROBERTS RALPH J"
+            }, {
+                "field": "transactiondate",
+                "value": "1/2/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 57.35
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Director"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-006335"
+            }, {
+                "field": "filingid",
+                "value": 2727905
+            }]
+        }, {
+            "rownum": 7,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "10/29/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 63.1032
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-020087"
+            }, {
+                "field": "filingid",
+                "value": 2875958
+            }]
+        }, {
+            "rownum": 8,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "7/29/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 67.2568
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-037252"
+            }, {
+                "field": "filingid",
+                "value": 3053796
+            }]
+        }, {
+            "rownum": 9,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "2/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-008406"
+            }, {
+                "field": "filingid",
+                "value": 2751396
+            }]
+        }, {
+            "rownum": 10,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "4/21/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 58.84
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-010297"
+            }, {
+                "field": "filingid",
+                "value": 2768102
+            }]
+        }, {
+            "rownum": 11,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "3/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-008775"
+            }, {
+                "field": "filingid",
+                "value": 2754648
+            }]
+        }, {
+            "rownum": 12,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "3/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 55.91
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-008775"
+            }, {
+                "field": "filingid",
+                "value": 2754647
+            }]
+        }, {
+            "rownum": 13,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "5/10/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 62.6463
+            }, {
+                "field": "transactiontypeid",
+                "value": 2
+            }, {
+                "field": "transactiontype",
+                "value": "Sell"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-033129"
+            }, {
+                "field": "filingid",
+                "value": 3008641
+            }]
+        }, {
+            "rownum": 14,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "7/29/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 67.695
+            }, {
+                "field": "transactiontypeid",
+                "value": 3
+            }, {
+                "field": "transactiontype",
+                "value": "Acquisition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-037252"
+            }, {
+                "field": "filingid",
+                "value": 3053795
+            }]
+        }, {
+            "rownum": 15,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "2/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 22.66
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-006334"
+            }, {
+                "field": "filingid",
+                "value": 2727897
+            }]
+        }, {
+            "rownum": 16,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "11/7/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 22.66
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-14-023060"
+            }, {
+                "field": "filingid",
+                "value": 2640210
+            }]
+        }, {
+            "rownum": 17,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "11/7/2014"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 55.06
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-14-023060"
+            }, {
+                "field": "filingid",
+                "value": 2640209
+            }]
+        }, {
+            "rownum": 18,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "4/6/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-031662"
+            }, {
+                "field": "filingid",
+                "value": 2996732
+            }]
+        }, {
+            "rownum": 19,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "2/24/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 57.7
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-028323"
+            }, {
+                "field": "filingid",
+                "value": 2956446
+            }]
+        }, {
+            "rownum": 20,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "2/26/2015"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 59.445
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-15-006334"
+            }, {
+                "field": "filingid",
+                "value": 2727896
+            }]
+        }, {
+            "rownum": 21,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "2/24/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 17.5
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-028323"
+            }, {
+                "field": "filingid",
+                "value": 2956447
+            }]
+        }, {
+            "rownum": 22,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "4/20/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 12
+            }, {
+                "field": "transactiontype",
+                "value": "Option Execute"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 5
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4 Option"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-031662"
+            }, {
+                "field": "filingid",
+                "value": 2996734
+            }]
+        }, {
+            "rownum": 23,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "5/10/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 0.0
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-037252"
+            }, {
+                "field": "filingid",
+                "value": 3053794
+            }]
+        }, {
+            "rownum": 24,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "4/20/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 61.46
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 0
+            }, {
+                "field": "ownershiptype",
+                "value": "direct"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-031662"
+            }, {
+                "field": "filingid",
+                "value": 2996733
+            }]
+        }, {
+            "rownum": 25,
+            "values": [{
+                "field": "querydate",
+                "value": "10/14/2016 3:33 PM"
+            }, {
+                "field": "filerid",
+                "value": 52591
+            }, {
+                "field": "filername",
+                "value": "ROBERTS BRIAN L"
+            }, {
+                "field": "transactiondate",
+                "value": "7/29/2016"
+            }, {
+                "field": "transactionpricefrom",
+                "value": 67.695
+            }, {
+                "field": "transactiontypeid",
+                "value": 4
+            }, {
+                "field": "transactiontype",
+                "value": "Disposition (Non Open Market)"
+            }, {
+                "field": "currency",
+                "value": "US dollar"
+            }, {
+                "field": "currencyid",
+                "value": 11
+            }, {
+                "field": "ownershiptypeid",
+                "value": 1
+            }, {
+                "field": "ownershiptype",
+                "value": "indirect"
+            }, {
+                "field": "insiderformtypeid",
+                "value": 4
+            }, {
+                "field": "insiderformtype",
+                "value": "Form 4"
+            }, {
+                "field": "relationship",
+                "value": "Officer"
+            }, {
+                "field": "issueid",
+                "value": 749084
+            }, {
+                "field": "issuename",
+                "value": "COMCAST CORP"
+            }, {
+                "field": "issueticker",
+                "value": "CMCSA"
+            }, {
+                "field": "pricedate",
+                "value": "10/12/2016 12:00 AM"
+            }, {
+                "field": "price",
+                "value": 65.24
+            }, {
+                "field": "isactive",
+                "value": 1
+            }, {
+                "field": "issuetypeid",
+                "value": 1
+            }, {
+                "field": "issuetype",
+                "value": "Common, Ordinary Stock"
+            }, {
+                "field": "exchangeid",
+                "value": 3
+            }, {
+                "field": "exchangename",
+                "value": "Nasdaq National/Smallcap Mkt"
+            }, {
+                "field": "marketoperator",
+                "value": "NASDAQ"
+            }, {
+                "field": "marketoperatorid",
+                "value": 2
+            }, {
+                "field": "markettier",
+                "value": "NASDAQ Global Select Market"
+            }, {
+                "field": "markettierid",
+                "value": 4
+            }, {
+                "field": "dcn",
+                "value": "0001225208-16-037252"
+            }, {
+                "field": "filingid",
+                "value": 3053797
+            }]
+        }]
+    }
+}
