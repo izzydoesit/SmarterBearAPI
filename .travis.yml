@@ -7,8 +7,8 @@ language: ruby
 script:
 #   - export RAILS_ENV=insiderAPI_test
 # #   - RAILS_ENV=test bundle exec rails c
-#   - bundle exec rake db:create 
-#   - bundle exec rake db:schema:load 
+#   - bundle exec rake db:create
+#   - bundle exec rake db:schema:load
 #   - bundle exec rake db:test:prepare
 #   - bundle exec rspec
 rvm:
