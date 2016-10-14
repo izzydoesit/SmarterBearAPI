@@ -1,3 +1,16 @@
-test: 
-  adapter: postgresql 
+default: &default
+  adapter: postgresql
+  encoding: unicode
+  pool: 5
+
+development:
+  <<: *default
+  database: insiderAPI_development
+
+test:
+  <<: *default
   database: insiderAPI_test
+
+production:
+  <<: *default
+  database: insiderAPI_developement
