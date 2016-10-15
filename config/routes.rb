@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :transactions, only: ['index']
+  resources :forms, only: ['index']
 
   root 'companies#index'
 end
