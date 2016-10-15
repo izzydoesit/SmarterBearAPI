@@ -35,7 +35,7 @@ ActiveRecord::Schema.define(version: 20161014225952) do
 
   create_table "transactions", force: :cascade do |t|
     t.string   "date"
-    t.integer  "dcn"
+    t.string   "dcn"
     t.float    "price"
     t.string   "sec_form_url"
     t.string   "transaction_type"
