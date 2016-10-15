@@ -24,6 +24,16 @@ ActiveRecord::Schema.define(version: 20161014225952) do
     t.datetime "updated_at",         null: false
   end
 
+  create_table "forms", force: :cascade do |t|
+    t.string   "date"
+    t.string   "dcn"
+    t.string   "sec_form_url"
+    t.integer  "insider_id"
+    t.datetime "created_at",   null: false
+    t.datetime "updated_at",   null: false
+    t.index ["insider_id"], name: "index_forms_on_insider_id", using: :btree
+  end
+
   create_table "insiders", force: :cascade do |t|
     t.string   "name"
     t.string   "relationship"
@@ -31,18 +41,6 @@ ActiveRecord::Schema.define(version: 20161014225952) do
     t.datetime "created_at",   null: false
     t.datetime "updated_at",   null: false
     t.index ["company_id"], name: "index_insiders_on_company_id", using: :btree
-  end
-
-  create_table "transactions", force: :cascade do |t|
-    t.string   "date"
-    t.string   "dcn"
-    t.float    "price"
-    t.string   "sec_form_url"
-    t.string   "transaction_type"
-    t.integer  "insider_id"
-    t.datetime "created_at",       null: false
-    t.datetime "updated_at",       null: false
-    t.index ["insider_id"], name: "index_transactions_on_insider_id", using: :btree
   end
 
 end
