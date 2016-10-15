@@ -1,0 +1,6 @@
+<h1>Companies</h1>
+<ul>
+<% @companies.each do |company| %>
+  <li><%= "#{company.name} :: #{company.cik_number}" %></li>
+<% end %>
+</ul>
