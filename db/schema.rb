@@ -20,10 +20,8 @@ ActiveRecord::Schema.define(version: 20161014225952) do
     t.string   "ticker"
     t.integer  "cik_number"
     t.integer  "shares_outstanding"
-    t.integer  "insider_id"
     t.datetime "created_at",         null: false
     t.datetime "updated_at",         null: false
-    t.index ["insider_id"], name: "index_companies_on_insider_id", using: :btree
   end
 
   create_table "insiders", force: :cascade do |t|
@@ -40,9 +38,10 @@ ActiveRecord::Schema.define(version: 20161014225952) do
     t.integer  "dcn"
     t.float    "price"
     t.string   "sec_form_url"
+    t.string   "transaction_type"
     t.integer  "insider_id"
-    t.datetime "created_at",   null: false
-    t.datetime "updated_at",   null: false
+    t.datetime "created_at",       null: false
+    t.datetime "updated_at",       null: false
     t.index ["insider_id"], name: "index_transactions_on_insider_id", using: :btree
   end
 
