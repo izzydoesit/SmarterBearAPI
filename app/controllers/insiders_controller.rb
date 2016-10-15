@@ -1,0 +1,2 @@
+class InsidersController < ApplicationController
+end
