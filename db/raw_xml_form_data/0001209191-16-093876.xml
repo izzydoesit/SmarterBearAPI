@@ -1,0 +1,164 @@
+<SEC-DOCUMENT>0001209191-16-093876.txt : 20160127
+<SEC-HEADER>0001209191-16-093876.hdr.sgml : 20160127
+<ACCEPTANCE-DATETIME>20160127195354
+ACCESSION NUMBER:		0001209191-16-093876
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160125
+FILED AS OF DATE:		20160127
+DATE AS OF CHANGE:		20160127
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			PANERA BREAD CO
+		CENTRAL INDEX KEY:			0000724606
+		STANDARD INDUSTRIAL CLASSIFICATION:	RETAIL-EATING PLACES [5812]
+		IRS NUMBER:				042723701
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3630 SOUTH GEYER ROAD
+		STREET 2:		SUITE 100
+		CITY:			SAINT  LOUIS
+		STATE:			MO
+		ZIP:			63127
+		BUSINESS PHONE:		314-984-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		3630 SOUTH GEYER ROAD
+		STREET 2:		SUITE 100
+		CITY:			SAINT  LOUIS
+		STATE:			MO
+		ZIP:			63127
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AU BON PAIN CO INC
+		DATE OF NAME CHANGE:	19940201
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	AU BON PAIN COMPANY INC
+		DATE OF NAME CHANGE:	19920501
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Dunlap Elizabeth A.
+		CENTRAL INDEX KEY:			0001521964
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-19253
+		FILM NUMBER:		161366286
+
+	MAIL ADDRESS:	
+		STREET 1:		3630 SOUTH GEYER ROAD, SUITE 100
+		CITY:			ST. LOUIS
+		STATE:			MO
+		ZIP:			63127
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-01-25</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000724606</issuerCik>
+        <issuerName>PANERA BREAD CO</issuerName>
+        <issuerTradingSymbol>PNRA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001521964</rptOwnerCik>
+            <rptOwnerName>Dunlap Elizabeth A.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3630 SOUTH GEYER ROAD,</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 100</rptOwnerStreet2>
+            <rptOwnerCity>ST. LOUIS</rptOwnerCity>
+            <rptOwnerState>MO</rptOwnerState>
+            <rptOwnerZipCode>63127</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>SVP, Chief People Officer</officerTitle>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Class A Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-01-25</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>S</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>75</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>182.99</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6110</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The sale reported on this Form 4 was effected pursuant to a Rule 10b5-1 trading plan adopted by the Reporting Person on November 3, 2015.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Louis DiPietro, Attorney in Fact for Elizabeth A. Dunlap</signatureName>
+        <signatureDate>2016-01-27</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

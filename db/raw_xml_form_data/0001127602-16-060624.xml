@@ -1,0 +1,202 @@
+<SEC-DOCUMENT>0001127602-16-060624.txt : 20160818
+<SEC-HEADER>0001127602-16-060624.hdr.sgml : 20160818
+<ACCEPTANCE-DATETIME>20160818151603
+ACCESSION NUMBER:		0001127602-16-060624
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160816
+FILED AS OF DATE:		20160818
+DATE AS OF CHANGE:		20160818
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			FEDEX CORP
+		CENTRAL INDEX KEY:			0001048911
+		STANDARD INDUSTRIAL CLASSIFICATION:	AIR COURIER SERVICES [4513]
+		IRS NUMBER:				621721435
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			0531
+
+	BUSINESS ADDRESS:	
+		STREET 1:		942 SOUTH SHADY GROVE ROAD
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38120-
+		BUSINESS PHONE:		9018187500
+
+	MAIL ADDRESS:	
+		STREET 1:		942 SOUTH SHADY GROVE ROAD
+		CITY:			MEMPHIS
+		STATE:			TN
+		ZIP:			38120-
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	FDX CORP
+		DATE OF NAME CHANGE:	19971103
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BARKSDALE JAMES L
+		CENTRAL INDEX KEY:			0001008699
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-15829
+		FILM NUMBER:		161840843
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TIME WARNER INC.
+		STREET 2:		ONE TIME WARNER CENTER
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10019
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-08-16</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001048911</issuerCik>
+        <issuerName>FEDEX CORP</issuerName>
+        <issuerTradingSymbol>FDX</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001008699</rptOwnerCik>
+            <rptOwnerName>BARKSDALE JAMES L</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>800 WOODLANDS PARKWAY</rptOwnerStreet1>
+            <rptOwnerStreet2>SUITE 118</rptOwnerStreet2>
+            <rptOwnerCity>RIDGELAND</rptOwnerCity>
+            <rptOwnerState>MS</rptOwnerState>
+            <rptOwnerZipCode>39157</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-08-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>105.395</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>69600</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Stock Option (Right to Buy)</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>105.395</value>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2016-08-16</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>4400</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F1"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2016-09-25</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>4400</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These options first exercisable one year from date of grant.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/James L. Barksdale</signatureName>
+        <signatureDate>2016-08-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

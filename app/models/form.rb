@@ -1,6 +1,10 @@
 require 'nokogiri'
 require 'net/ftp'
+require 'fileutils'
+
 class Form < ApplicationRecord
+  include FileUtils
+
   belongs_to :insider
   has_many :transactions
 
@@ -9,8 +13,10 @@ class Form < ApplicationRecord
     ftp.login
     ftp.chdir("edgar/data/#{self.insider.company.cik_number}")
     begin
-      form = ftp.getbinaryfile("#{self.dcn}.txt", nil)
+      form = ftp.getbinaryfile("#{self.dcn}.txt", "#{self.dcn}.xml")
     rescue Net::FTPPermError
+      form = nil
+    rescue Net::ReadTimeout
       form = nil
     end
     ftp.close
