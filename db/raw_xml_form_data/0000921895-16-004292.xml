@@ -1,0 +1,311 @@
+<SEC-DOCUMENT>0000921895-16-004292.txt : 20160428
+<SEC-HEADER>0000921895-16-004292.hdr.sgml : 20160428
+<ACCEPTANCE-DATETIME>20160428214142
+ACCESSION NUMBER:		0000921895-16-004292
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160426
+FILED AS OF DATE:		20160428
+DATE AS OF CHANGE:		20160428
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YAHOO INC
+		CENTRAL INDEX KEY:			0001011006
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				770398689
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		YAHOO! INC.
+		STREET 2:		701 FIRST AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+		BUSINESS PHONE:		4083493300
+
+	MAIL ADDRESS:	
+		STREET 1:		701 FIRST AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Smith Jeffrey C
+		CENTRAL INDEX KEY:			0001362697
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28018
+		FILM NUMBER:		161602237
+
+	MAIL ADDRESS:	
+		STREET 1:		777 THIRD AVENUE, 18TH FLOOR
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10017
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form406297148_04282016.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-04-26</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001011006</issuerCik>
+        <issuerName>YAHOO INC</issuerName>
+        <issuerTradingSymbol>YHOO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001362697</rptOwnerCik>
+            <rptOwnerName>Smith Jeffrey C</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>777 THIRD AVENUE, 18TH FLOOR</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>NEW YORK</rptOwnerCity>
+            <rptOwnerState>NY</rptOwnerState>
+            <rptOwnerZipCode>10017</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-04-26</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>1045</value>
+                    <footnoteId id="F7"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1045</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>9352212</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Starboard Value and Opportunity Master Fund Ltd</value>
+                    <footnoteId id="F1"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1107775</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Starboard Value and Opportunity S LLC</value>
+                    <footnoteId id="F2"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>609565</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Starboard Value and Opportunity C LP</value>
+                    <footnoteId id="F3"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock, $0.001 par value</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1229075</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Managed Account of Starboard Value LP</value>
+                    <footnoteId id="F4"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Cash-Settled Total Return Swap</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>32.0900</value>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2017-10-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, $0.001 par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>2246845</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Starboard Leaders Foxtrot LLC</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+        <derivativeHolding>
+            <securityTitle>
+                <value>Cash-Settled Total Return Swap</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <value>31.4255</value>
+                <footnoteId id="F6"/>
+            </conversionOrExercisePrice>
+            <exerciseDate>
+                <footnoteId id="F5"/>
+            </exerciseDate>
+            <expirationDate>
+                <value>2017-10-19</value>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock, $0.001 par value</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>1774566</value>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>1</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Starboard Leaders Foxtrot LLC</value>
+                    <footnoteId id="F5"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </derivativeHolding>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Shares of common stock owned directly by Starboard Value and Opportunity Master Fund Ltd (&quot;Starboard V&amp;O Fund&quot;). The Reporting Person, solely by virtue of his position as a member of the Management Committee of Starboard Value GP LLC (&quot;Starboard Value GP&quot;), the general partner of the investment manager of Starboard V&amp;O Fund, and as a member and member of the Management Committee of Starboard Principal Co GP LLC (&quot;Principal GP&quot;), the general partner of the member of Starboard Value GP, may be deemed to beneficially own the shares of common stock directly held by Starboard V&amp;O Fund for purposes of Section 16 of the Securities Exchange Act of 1934, as amended (&quot;Section 16&quot;). The Reporting Person expressly disclaims beneficial ownership of such shares of common stock except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F2">Shares of common stock owned directly by Starboard Value and Opportunity S LLC (&quot;Starboard S LLC&quot;). The Reporting Person, solely by virtue of his position as a member of the Management Committee of Starboard Value GP, the general partner of the manager of Starboard S LLC, and as a member and member of the Management Committee of Principal GP, the general partner of the member of Starboard Value GP, may be deemed to beneficially own the shares of common stock directly held by Starboard S LLC for purposes of Section 16. The Reporting Person expressly disclaims beneficial ownership of such shares of common stock except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F3">Shares of common stock owned directly by Starboard Value and Opportunity C LP (&quot;Starboard C LP&quot;). The Reporting Person, solely by virtue of his position as a member of the Management Committee of Starboard Value GP, the general partner of the investment manager of Starboard C LP, and as a member and member of the Management Committee of Principal GP, the general partner of the member of Starboard Value GP, may be deemed to beneficially own the shares of common stock directly held by Starboard C LP for purposes of Section 16. The Reporting Person expressly disclaims beneficial ownership of such shares of common stock except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F4">Shares of common stock held in an account managed by Starboard Value LP (the &quot;Managed Account&quot;). The Reporting Person, solely by virtue of his position as a member of the Management Committee of Starboard Value GP, the general partner of Starboard Value LP, and as a member and member of the Management Committee of Principal GP, the general partner of the member of Starboard Value GP, may be deemed to beneficially own the shares of common stock held in the Managed Account for purposes of Section 16. The Reporting Person expressly disclaims beneficial ownership of such shares of common stock except to the extent of his pecuniary interest therein.</footnote>
+        <footnote id="F5">Starboard Leaders Foxtrot LLC (&quot;Starboard Foxtrot LLC&quot;) has entered into certain cash-settled total return swap agreements (the &quot;Swap Agreements&quot;) with an unaffiliated third party financial institution, which provide Starboard Foxtrot LLC with economic exposure to an aggregate of 4,021,411 notional shares. The Swap Agreements provide Starboard Foxtrot LLC with economic results that are comparable to the economic results of ownership but do not provide Starboard Foxtrot LLC with the power to vote or direct the voting or dispose of or direct the disposition of the shares of common stock that are the subjectof the Swap Agreements (the &quot;Subject Shares&quot;). The Reporting Person expressly disclaims beneficial ownership of the Subject Shares except to the extent ofhis pecuniary interest therein.</footnote>
+        <footnote id="F6">Represents the reference price associated with the applicable Swap Agreement.</footnote>
+        <footnote id="F7">These shares represent restricted stock units granted automatically under the Yahoo! Inc. (&quot;Yahoo&quot;) Directors' Stock Plan on the date the Reporting Person first became a director. Each restricted stock unit represents the contingent right to receive one share of Yahoo common stock. These units are scheduled to vest on June 24, 2016 (or, if earlier, the day before Yahoo's next annual meeting of shareholders), subject to the Reporting Person's continuous service as a director. The Reporting Person has elected to defer payment of the vested shares until the date of his termination of service as a director.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Jeffrey C. Smith</signatureName>
+        <signatureDate>2016-04-28</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

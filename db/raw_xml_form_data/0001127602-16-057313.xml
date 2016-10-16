@@ -1,0 +1,144 @@
+<SEC-DOCUMENT>0001127602-16-057313.txt : 20160705
+<SEC-HEADER>0001127602-16-057313.hdr.sgml : 20160705
+<ACCEPTANCE-DATETIME>20160705175939
+ACCESSION NUMBER:		0001127602-16-057313
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160630
+FILED AS OF DATE:		20160705
+DATE AS OF CHANGE:		20160705
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YAHOO INC
+		CENTRAL INDEX KEY:			0001011006
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				770398689
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		YAHOO! INC.
+		STREET 2:		701 FIRST AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+		BUSINESS PHONE:		4083493300
+
+	MAIL ADDRESS:	
+		STREET 1:		701 FIRST AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BRANDT ERIC
+		CENTRAL INDEX KEY:			0001190639
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28018
+		FILM NUMBER:		161751822
+
+	MAIL ADDRESS:	
+		STREET 1:		5300 CALIFORNIA AVENUE
+		CITY:			IRVINE
+		STATE:			CA
+		ZIP:			92617
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-06-30</periodOfReport>
+
+    <issuer>
+        <issuerCik>0001011006</issuerCik>
+        <issuerName>YAHOO INC</issuerName>
+        <issuerTradingSymbol>YHOO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001190639</rptOwnerCik>
+            <rptOwnerName>BRANDT ERIC</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O YAHOO! INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>701 FIRST AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>SUNNYVALE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94089</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6389</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>8545</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares represent restricted stock units granted automatically under the Yahoo! Inc. Directors' Stock Plan on the date of Yahoo's annual meeting of shareholders.  Each restricted stock unit represents the contingent right to receive one share of Yahoo common stock.  These units are scheduled to vest in four equal quarterly installments such that they will be fully vested on the first anniversary of the date of grant (or, if earlier, the day before Yahoo's next annual meeting of shareholders), subject to the reporting person's continuous service as a director.  Vested shares will generally be delivered on the earlier of the last vesting date or the date the director's service terminates, subject to any election by the reporting person to defer payment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ronald S. Bell, attorney-in-fact for Eric K. Brandt</signatureName>
+        <signatureDate>2016-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

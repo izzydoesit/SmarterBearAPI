@@ -1,0 +1,273 @@
+<SEC-DOCUMENT>0000903423-16-000728.txt : 20160107
+<SEC-HEADER>0000903423-16-000728.hdr.sgml : 20160107
+<ACCEPTANCE-DATETIME>20160107171050
+ACCESSION NUMBER:		0000903423-16-000728
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160105
+FILED AS OF DATE:		20160107
+DATE AS OF CHANGE:		20160107
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sabre Corp
+		CENTRAL INDEX KEY:			0001597033
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				208647322
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3150 SABRE DRIVE
+		CITY:			SOUTHLAKE
+		STATE:			TX
+		ZIP:			76092
+		BUSINESS PHONE:		682 605 1000
+
+	MAIL ADDRESS:	
+		STREET 1:		3150 SABRE DRIVE
+		CITY:			SOUTHLAKE
+		STATE:			TX
+		ZIP:			76092
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			COULTER JAMES G
+		CENTRAL INDEX KEY:			0001099776
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36422
+		FILM NUMBER:		161330802
+
+	MAIL ADDRESS:	
+		STREET 1:		301 COMMERCE STREET
+		STREET 2:		SUITE 3300
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			BONDERMAN DAVID
+		CENTRAL INDEX KEY:			0000860866
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36422
+		FILM NUMBER:		161330803
+
+	MAIL ADDRESS:	
+		STREET 1:		301 COMMERCE STREET
+		STREET 2:		SUITE 3300
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			TPG Group Holdings (SBS) Advisors, Inc.
+		CENTRAL INDEX KEY:			0001495741
+		STATE OF INCORPORATION:			DE
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36422
+		FILM NUMBER:		161330804
+
+	BUSINESS ADDRESS:	
+		STREET 1:		C/O TPG GLOBAL, LLC
+		STREET 2:		301 COMMERCE STREET, SUITE 3300
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+		BUSINESS PHONE:		817-871-4000
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O TPG GLOBAL, LLC
+		STREET 2:		301 COMMERCE STREET, SUITE 3300
+		CITY:			FORT WORTH
+		STATE:			TX
+		ZIP:			76102
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>tpgsabre.xml
+<DESCRIPTION>OWNERSHIP DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-01-05</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001597033</issuerCik>
+        <issuerName>Sabre Corp</issuerName>
+        <issuerTradingSymbol>SABR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001495741</rptOwnerCik>
+            <rptOwnerName>TPG Group Holdings (SBS) Advisors, Inc.</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TPG GLOBAL, LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>301 COMMERCE STREET, SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>FORT WORTH</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>76102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0000860866</rptOwnerCik>
+            <rptOwnerName>BONDERMAN DAVID</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TPG GLOBAL, LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>301 COMMERCE STREET, SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>FORT WORTH,</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>76102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001099776</rptOwnerCik>
+            <rptOwnerName>COULTER JAMES G</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O TPG GLOBAL, LLC</rptOwnerStreet1>
+            <rptOwnerStreet2>301 COMMERCE STREET, SUITE 3300</rptOwnerStreet2>
+            <rptOwnerCity>FORT WORTH,</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>76102</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>1</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-01-05</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>J</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>18341794</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>58963340</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>See Explanation of Responses</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                    <footnoteId id="F4"/>
+                    <footnoteId id="F5"/>
+                    <footnoteId id="F6"/>
+                    <footnoteId id="F7"/>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Effective January 5, 2016, Sovereign Co-Invest, LLC (&quot;Sovereign Co-Invest&quot;) distributed all of its shares of common stock (&quot;Common Stock&quot;) of Sabre Corporation (the &quot;Issuer&quot;) pro rata to its members pursuant to the terms of its limited liability company operating agreement.  The Reporting Persons (as defined below) have not had and do not have a pecuniary interest in the shares previously held by Sovereign Co-Invest.</footnote>
+        <footnote id="F2">David Bonderman and James G. Coulter are officers and sole shareholders of TPG Group Holdings (SBS) Advisors, Inc. (&quot;Group Advisors&quot; and, together with Messrs. Bonderman and Coulter, the &quot;Reporting Persons&quot;).  Group Advisors is the general partner of TPG Group Holdings (SBS), L.P., which is the sole member of TPG Holdings I-A, LLC, which is the general partner of TPG Holdings I, L.P., which is the sole member of each of TPG GenPar V Advisors, LLC and TPG GenPar IV Advisors, LLC.</footnote>
+        <footnote id="F3">TPG GenPar V Advisors, LLC is the general partner of TPG GenPar V, L.P., which is the general partner of each of (i) TPG Partners V, L.P., which directly holds 46,836,565 shares of Common Stock, (ii) TPG FOF V-A, L.P., which directly holds 122,500 shares of Common Stock, and (iii) TPG FOF V-B, L.P., which directly holds 98,796 shares of Common Stock.</footnote>
+        <footnote id="F4">TPG GenPar IV Advisors, LLC is the general partner of TPG GenPar IV, L.P., which is the general partner of TPG Partners IV, L.P. (together with TPG Partners V, L.P., TPG FOF V-A, L.P. and TPG FOF V-B, L.P., the &quot;TPG Funds&quot;), which directly holds 3,921,393 shares of Common Stock.</footnote>
+        <footnote id="F5">TPG GenPar V, L.P. is a member of Sovereign Manager Co-Invest, LLC, which is the managing member of Sovereign Co-Invest II, LLC (&quot;Sovereign Co-Invest II&quot;), which directly holds 7,984,086 shares of Common Stock.  Sovereign Manager Co-Invest, LLC is managed by a management committee consisting of two managers, one of which is designated by TPG GenPar V, L.P.</footnote>
+        <footnote id="F6">Because of the relationship between the Reporting Persons and the TPG Funds and Sovereign Co-Invest II, the Reporting Persons may be deemed to beneficially own the securities reported herein to the extent of the greater of their respective direct or indirect pecuniary interests in the profits or capital accounts of the TPG Funds and Sovereign Co-Invest II.  Each Reporting Person and each of the TPG Funds disclaims beneficial ownership of the securities reported herein, except to the extent of such Reporting Person's or such TPG Fund's pecuniary interest therein, if any.</footnote>
+        <footnote id="F7">Pursuant to Rule 16a-1(a)(4) under the Securities Exchange Act of 1934, as amended (the &quot;Exchange Act&quot;), this filing shall not be deemed an admission that the Reporting Persons are, for purposes of Section 16 of the Exchange Act or otherwise, the beneficial owners of any equity securities in excess of their respective pecuniary interests.</footnote>
+    </footnotes>
+
+    <remarks>(8) The Reporting Persons are jointly filing this Form 4 pursuant to Rule 16a-3(j) under the Exchange Act.   (9) Clive Bode is signing on behalf of both Messrs. Bonderman and Coulter pursuant to authorization and designation letters dated June 19, 2015, which were previously filed with the Securities and Exchange Commission.</remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Clive Bode, Vice President, TPG Group Holdings (SBS) Advisors, Inc. (8)</signatureName>
+        <signatureDate>2016-01-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Clive Bode, on behalf of David Bonderman (8) (9)</signatureName>
+        <signatureDate>2016-01-07</signatureDate>
+    </ownerSignature>
+
+    <ownerSignature>
+        <signatureName>/s/ Clive Bode, on behalf of James G. Coulter (8) (9)</signatureName>
+        <signatureDate>2016-01-07</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

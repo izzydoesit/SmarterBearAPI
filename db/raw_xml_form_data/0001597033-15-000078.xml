@@ -1,0 +1,156 @@
+<SEC-DOCUMENT>0001597033-15-000078.txt : 20151113
+<SEC-HEADER>0001597033-15-000078.hdr.sgml : 20151113
+<ACCEPTANCE-DATETIME>20151113165727
+ACCESSION NUMBER:		0001597033-15-000078
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20151113
+FILED AS OF DATE:		20151113
+DATE AS OF CHANGE:		20151113
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sabre Corp
+		CENTRAL INDEX KEY:			0001597033
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				208647322
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3150 SABRE DRIVE
+		CITY:			SOUTHLAKE
+		STATE:			TX
+		ZIP:			76092
+		BUSINESS PHONE:		682 605 1000
+
+	MAIL ADDRESS:	
+		STREET 1:		3150 SABRE DRIVE
+		CITY:			SOUTHLAKE
+		STATE:			TX
+		ZIP:			76092
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			KELLNER LAWRENCE W
+		CENTRAL INDEX KEY:			0001202886
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36422
+		FILM NUMBER:		151229934
+
+	MAIL ADDRESS:	
+		STREET 1:		1600 SMITH ST.
+		STREET 2:		HQSEO
+		CITY:			HOUSTON
+		STATE:			TX
+		ZIP:			77002
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_144745183748492.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2015-11-13</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001597033</issuerCik>
+        <issuerName>Sabre Corp</issuerName>
+        <issuerTradingSymbol>SABR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001202886</rptOwnerCik>
+            <rptOwnerName>KELLNER LAWRENCE W</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3150 SABRE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SOUTHLAKE</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>76052</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle></officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+                <footnoteId id="F1"/>
+                <footnoteId id="F2"/>
+            </securityTitle>
+            <transactionDate>
+                <value>2015-11-13</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>100000</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>261772</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">The restricted stock unit award vests in equal installments of 8-1/3% at the end of each three-month period following the date of grant, subject to the reporting person's continued service on the board of directors of the Issuer through such vesting date.  Settlement of any vested restricted stock units will be made in the form of shares of common stock within 90 days following the end of the calendar quarter in which service on the board of directors terminates, but in no event later than December 31 of the year in which service terminates.</footnote>
+        <footnote id="F2">Dividend equivalents will accrue on vested restricted stock units and will be notionally credited on each dividend payment date in respect of common stock with additional restricted stock units.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Steve W. Milton as attorney-in-fact for Lawrence W. Kellner</signatureName>
+        <signatureDate>2015-11-13</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

@@ -1,0 +1,171 @@
+<SEC-DOCUMENT>0001127602-16-057326.txt : 20160705
+<SEC-HEADER>0001127602-16-057326.hdr.sgml : 20160705
+<ACCEPTANCE-DATETIME>20160705180948
+ACCESSION NUMBER:		0001127602-16-057326
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160630
+FILED AS OF DATE:		20160705
+DATE AS OF CHANGE:		20160705
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			YAHOO INC
+		CENTRAL INDEX KEY:			0001011006
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER INTEGRATED SYSTEMS DESIGN [7373]
+		IRS NUMBER:				770398689
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		YAHOO! INC.
+		STREET 2:		701 FIRST AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+		BUSINESS PHONE:		4083493300
+
+	MAIL ADDRESS:	
+		STREET 1:		701 FIRST AVENUE
+		CITY:			SUNNYVALE
+		STATE:			CA
+		ZIP:			94089
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			Scott H Lee Jr
+		CENTRAL INDEX KEY:			0001194711
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	000-28018
+		FILM NUMBER:		161751883
+
+	MAIL ADDRESS:	
+		STREET 1:		WAL MART STORES INC
+		STREET 2:		702 SW 8TH STREET
+		CITY:			BENTONVILLE
+		STATE:			AR
+		ZIP:			72716-0130
+
+	FORMER NAME:	
+		FORMER CONFORMED NAME:	SCOTT L LEE JR
+		DATE OF NAME CHANGE:	20021001
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>form4.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-06-30</periodOfReport>
+
+    <notSubjectToSection16>1</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001011006</issuerCik>
+        <issuerName>YAHOO INC</issuerName>
+        <issuerTradingSymbol>YHOO</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001194711</rptOwnerCik>
+            <rptOwnerName>Scott H Lee Jr</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>C/O YAHOO! INC.</rptOwnerStreet1>
+            <rptOwnerStreet2>701 FIRST AVENUE</rptOwnerStreet2>
+            <rptOwnerCity>SUNNYVALE</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94089</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isOther>1</isOther>
+            <officerTitle></officerTitle>
+            <otherText>Former Director</otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-06-30</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>427</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F1"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>15523</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeHolding>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>25000</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>I</value>
+                </directOrIndirectOwnership>
+                <natureOfOwnership>
+                    <value>By Lee and Linda Scott Revocable Trust</value>
+                </natureOfOwnership>
+            </ownershipNature>
+        </nonDerivativeHolding>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">These shares represent an automatic grant of restricted stock units under the Yahoo! Inc. Directors' Stock Plan (which permits directors to elect to receive payment of quarterly directors' fees in the form of restricted stock units). This grant was made in lieu of cash fees of $16,071.43. Each restricted stock unit represents the right to receive one share of Yahoo! Inc. common stock. These units are fully vested on the date of grant. Vested shares will generally be delivered on the earlier of the date the director's service terminates or the first anniversary of the date of grant, subject to any election by the reporting person to defer payment.</footnote>
+    </footnotes>
+
+    <ownerSignature>
+        <signatureName>/s/ Ronald S. Bell, attorney-in-fact for H. Lee Scott, Jr.</signatureName>
+        <signatureDate>2016-07-05</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
