@@ -66,5 +66,17 @@ COMPANY_CIK_NUMS.each do |company_name, cik|
   end
 end
 
+Form.all.each do |form|
+  insider_id = form.insider.id
+  xml = form.fetch_xml_form
+
+  if xml
+    transactions = parse_xml_form
+
+    transactions.each do |trans|
+      Transaction.create!(trans)
+    end
+  end
+end
  
 
