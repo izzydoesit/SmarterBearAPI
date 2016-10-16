@@ -1,6 +1,9 @@
 class InsidersController < ApplicationController
   def index
-    @insdiders = Insider.all
+    @insiders = Insider.all
     render :json => @insiders
+  end
+
+  def show
   end
 end
