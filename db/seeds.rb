@@ -70,11 +70,7 @@ end
 
 Form.all.each do |form|
   insider_id = form.insider.id
-  # begin
-    xml = File.read("db/raw_xml_form_data/#{form.dcn}.xml")
-  # rescue Errno::ENOENT
-  #   xml = ""
-  # end
+  xml = File.read("db/raw_xml_form_data/#{form.dcn}.xml")
 
   if !xml.empty?
     transactions = form.parse_xml_form(xml, insider_id)
