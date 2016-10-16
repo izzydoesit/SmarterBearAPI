@@ -17,12 +17,8 @@ require "sprockets/railtie"
 Bundler.require(*Rails.groups)
 
 module InsiderAPI
-  # class Application < Rails::Application
-  #   config.api_only = true
-  #   config.action_dispatch.default_headers = {
-  #   'Access-Control-Allow-Origin' => '*',
-  #   'Access-Control-Request-Method' => %w{GET POST OPTIONS}.join(",")
-  # }
+  class Application < Rails::Application
+    config.api_only = true
     # Settings in config/environments/* take precedence over those specified here.
     # Application configuration should go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded.
