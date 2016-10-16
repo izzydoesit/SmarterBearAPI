@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20161014225952) do
+ActiveRecord::Schema.define(version: 20161016000144) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -43,4 +43,20 @@ ActiveRecord::Schema.define(version: 20161014225952) do
     t.index ["company_id"], name: "index_insiders_on_company_id", using: :btree
   end
 
+  create_table "transactions", force: :cascade do |t|
+    t.string   "direction"
+    t.float    "total_value"
+    t.float    "price_per_share"
+    t.integer  "shares_transacted"
+    t.string   "date"
+    t.integer  "insider_id"
+    t.integer  "company_id"
+    t.datetime "created_at",        null: false
+    t.datetime "updated_at",        null: false
+    t.index ["company_id"], name: "index_transactions_on_company_id", using: :btree
+    t.index ["insider_id"], name: "index_transactions_on_insider_id", using: :btree
+  end
+
+  add_foreign_key "transactions", "companies"
+  add_foreign_key "transactions", "insiders"
 end
