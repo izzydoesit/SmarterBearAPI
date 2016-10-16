@@ -71,7 +71,7 @@ Form.all.each do |form|
   xml = form.fetch_xml_form
 
   if xml
-    transactions = parse_xml_form
+    transactions = form.parse_xml_form
 
     transactions.each do |trans|
       Transaction.create!(trans)

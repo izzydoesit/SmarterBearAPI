@@ -9,7 +9,7 @@ class Form < ApplicationRecord
     ftp.login
     ftp.chdir("edgar/data/#{self.insider.company.cik_number}")
     begin
-      form = ftp.getbinaryfile("#{self.dcn}.txt", nil)
+      form = ftp.getbinaryfile("#{self.dcn}.txt", "/db/raw_xml_form_data", "#{self.dcn}.xml")
     rescue Net::FTPPermError
       form = nil
     end
