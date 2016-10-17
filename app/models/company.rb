@@ -1,5 +1,5 @@
 class Company < ApplicationRecord
-  include ApplicationHelper
+  include TransactionsHelper
   
   has_many :insiders
   has_many :transactions, through: :insiders
@@ -20,6 +20,16 @@ class Company < ApplicationRecord
   end
 
   def self.search(param)
-    [search_by_name(param), search_by_ticker(param)].flatten.uniq
+    results = []
+    [search_by_name(param), search_by_ticker(param)].flatten.uniq.each do |company|
+      company_details = {
+        name: company.name,
+        confidence: company.confidence_rating,
+        monthly_total: company.transactions_this_month_total_value,
+        insiders: company.insiders.count
+      }
+      results << company_details
+    end
+    results
   end
 end

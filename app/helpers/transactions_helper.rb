@@ -14,4 +14,12 @@ module TransactionsHelper
     return false if trans.date[5..6].to_i != Time.new.month #|| ( Time.new.month - trans.date[5..6].to_i ) > 1
     true
   end
+
+  def transactions_this_month_total_value
+    total = 0
+    self.transactions_this_month.map do |trans|
+      trans.direction == "A" ? total += trans.total_value : total -= trans.total_value
+    end
+    total 
+  end
 end
