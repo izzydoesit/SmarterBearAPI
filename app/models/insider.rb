@@ -1,5 +1,5 @@
 class Insider < ApplicationRecord
-  include ApplicationHelper
+  include TransactionsHelper
   
   has_many :forms
   has_many :transactions
