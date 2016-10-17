@@ -1,6 +1,7 @@
 class CompaniesController < ApplicationController
   def index
     @companies = Company.all
+    @companies.each { |company| company[:confidence_rating] = company.rate_confidence }
     render :json => @companies
   end
 

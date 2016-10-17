@@ -20,6 +20,7 @@ ActiveRecord::Schema.define(version: 20161016000144) do
     t.string   "ticker"
     t.integer  "cik_number"
     t.integer  "shares_outstanding"
+    t.integer  "confidence_rating"
     t.datetime "created_at",         null: false
     t.datetime "updated_at",         null: false
   end
