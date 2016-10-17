@@ -7,7 +7,7 @@ Dotenv.load
 
 
 COMPANIES = [
-  {name: "Yahoo! Inc", cik_number: 1011006, ticker: "YHOO"},
+  {name: "Yahoo Inc", cik_number: 1011006, ticker: "YHOO"},
   {name: "Apple Inc", cik_number: 320193, ticker: "AAPL"},
   {name: "General Motors Company", cik_number: 1467858, ticker: "GM"},
   {name: "Alphabet Inc", cik_number: 1652044, ticker: "GOOGL"},
