@@ -1,6 +1,7 @@
 class Company < ApplicationRecord
   include TransactionsHelper
   
+  
   has_many :insiders
   has_many :transactions, through: :insiders
 

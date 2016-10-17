@@ -1,4 +1,6 @@
 module TransactionsHelper
+  include ActionView::Helpers::NumberHelper
+
   def transactions_this_month
     transactions = []
     
@@ -20,6 +22,6 @@ module TransactionsHelper
     self.transactions_this_month.map do |trans|
       trans.direction == "A" ? total += trans.total_value : total -= trans.total_value
     end
-    total 
+    number_to_currency(total)
   end
 end
