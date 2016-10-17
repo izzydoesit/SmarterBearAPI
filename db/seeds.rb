@@ -80,5 +80,5 @@ Form.all.each do |form|
     end
   end
 end
- 
 
+Company.all.each { |company| company.update!(confidence_rating: company.rate_confidence) }
