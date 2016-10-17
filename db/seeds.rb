@@ -26,7 +26,7 @@ COMPANIES = [
 
 def fetch_json_forms(company_name)
   api_key = ENV["EDGAR_ONLINE_KEY"]
-  HTTParty.get("http://edgaronline.api.mashery.com/v2/insiders/transactions?fields=%21filerCity%2C%21filerStateid%2C%21filerState%2C%21filerZip%2C%21filerPhone%2C%21issueCity%2C%21issueStateid%2C%21issueState%2C%21issueZip&issuenames=%2A#{company_name}%2A&transactiondates=20151016%7E20161015&limit=1000&debug=true&sortby=transactionDate+desc&appkey=#{api_key}")
+  HTTParty.get("http://edgaronline.api.mashery.com/v2/insiders/transactions?fields=%21filerCity%2C%21filerStateid%2C%21filerState%2C%21filerZip%2C%21filerPhone%2C%21issueCity%2C%21issueStateid%2C%21issueState%2C%21issueZip&issuenames=%2A#{company_name}%2A&transactiondates=20160616%7E20161015&limit=1000&debug=true&sortby=transactionDate+desc&appkey=#{api_key}")
 end
 
 def parse_json_forms(all_forms)
