@@ -5,5 +5,7 @@ class InsidersController < ApplicationController
   end
 
   def show
+    @insider = Insider.find(params[:id])
+    @insider_data = [@insider, @insider.transactions]
   end
 end
