@@ -70,7 +70,7 @@ end
 
 Form.all.each do |form|
   insider_id = form.insider.id
-  xml = File.read("db/raw_xml_form_data/#{form.dcn}.xml")
+  xml = File.read("raw_xml_form_data/#{form.dcn}.xml")
 
   if !xml.empty?
     transactions = form.parse_xml_form(xml, insider_id)
