@@ -7,5 +7,7 @@ class Company < ApplicationRecord
   validates :name, :cik_number, :ticker, presence: true
 
   # need to add in shares outstanding once data is found
-  
+  def confidence_rating
+    self.transactions_this_month.count
+  end
 end
