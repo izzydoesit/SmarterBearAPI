@@ -1,0 +1,149 @@
+<SEC-DOCUMENT>0001209191-16-133602.txt : 20160721
+<SEC-HEADER>0001209191-16-133602.hdr.sgml : 20160721
+<ACCEPTANCE-DATETIME>20160721160839
+ACCESSION NUMBER:		0001209191-16-133602
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160719
+FILED AS OF DATE:		20160721
+DATE AS OF CHANGE:		20160721
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Acacia Communications, Inc.
+		CENTRAL INDEX KEY:			0001651235
+		STANDARD INDUSTRIAL CLASSIFICATION:	SEMICONDUCTORS & RELATED DEVICES [3674]
+		IRS NUMBER:				270291921
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3 CLOCK TOWER PLACE
+		STREET 2:		SUITE 100
+		CITY:			MAYNARD
+		STATE:			MA
+		ZIP:			01754
+		BUSINESS PHONE:		978-938-4896
+
+	MAIL ADDRESS:	
+		STREET 1:		3 CLOCK TOWER PLACE
+		STREET 2:		SUITE 100
+		CITY:			MAYNARD
+		STATE:			MA
+		ZIP:			01754
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			ROCHE VINCENT
+		CENTRAL INDEX KEY:			0001201872
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-37771
+		FILM NUMBER:		161777503
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>doc4.xml
+<DESCRIPTION>FORM 4 SUBMISSION
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-07-19</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001651235</issuerCik>
+        <issuerName>Acacia Communications, Inc.</issuerName>
+        <issuerTradingSymbol>ACIA</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001201872</rptOwnerCik>
+            <rptOwnerName>ROCHE VINCENT</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>P.O. BOX 9106</rptOwnerStreet1>
+            <rptOwnerStreet2>ONE TECHNOLOGY WAY</rptOwnerStreet2>
+            <rptOwnerCity>NORWOOD</rptOwnerCity>
+            <rptOwnerState>MA</rptOwnerState>
+            <rptOwnerZipCode>02062-9106</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>1</isDirector>
+            <isOfficer>0</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-07-19</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>A</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness>
+                <value></value>
+            </transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>6462</value>
+                    <footnoteId id="F1"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>0.00</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>6462</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Consists of 6,462 restricted stock units (&quot;RSUs&quot;). Each RSU represents the right to receive one share of common stock upon vesting. The RSUs will vest as to 33% of the original number of shares on each of May 31, 2017 and May 31, 2018, and as to the remaining 34% of the original number of shares on May 31, 2019.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Janene I. Asgeirsson, attorney-in-fact</signatureName>
+        <signatureDate>2016-07-21</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
