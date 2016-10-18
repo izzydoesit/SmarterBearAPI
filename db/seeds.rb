@@ -21,7 +21,8 @@ COMPANIES = [
   {name: "Comcast", cik_number: 1166691, ticker: "CMCSA", shares_outstanding: 2411825686},
   {name: "CBS", cik_number: 813828, ticker: "CBS", shares_outstanding: 444601753},
   {name: "International Business Machine", cik_number: 51143, ticker: "IBM", shares_outstanding: 955844217},
-  {name: "Panera Bread Co", cik_number: 724606, ticker: "PNRA", shares_outstanding: 23646377}
+  {name: "Panera Bread Co", cik_number: 724606, ticker: "PNRA", shares_outstanding: 23646377},
+  {name: "Acacia Communications Inc", cik_number: 1651235, ticker: "ACIA", shares_outstanding: 35807893}
 ]
 
 def fetch_json_forms(company_ticker)
