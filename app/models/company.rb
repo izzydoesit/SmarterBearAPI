@@ -24,7 +24,7 @@ class Company < ApplicationRecord
     results = []
     [search_by_name(param), search_by_ticker(param)].flatten.uniq.each do |company|
       company_details = {
-        id: company.id
+        id: company.id,
         name: company.name,
         confidence: company.confidence_rating,
         monthly_total: company.transactions_this_month_total_value,
