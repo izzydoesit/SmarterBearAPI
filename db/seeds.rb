@@ -10,7 +10,7 @@ COMPANIES = [
   {name: "Yahoo Inc", cik_number: 1011006, ticker: "YHOO", shares_outstanding: 951782587},
   {name: "Apple Inc", cik_number: 320193, ticker: "AAPL", shares_outstanding: 5388443000},
   {name: "Ruby Tuesday", cik_number: 1568681, ticker: "RT", shares_outstanding: 60196759},
-  {name: "Google Inc", cik_number: 1652044, ticker: "GOOGL", shares_outstanding: 687273797},
+  {name: "Google Inc", cik_number: 1652044, ticker: "GOOG", shares_outstanding: 687273797},
   {name: "Hewlett Packard", cik_number: 47217, ticker: "HPQ", shares_outstanding: 1710875682},
   {name: "Palo Alto Networks INC", cik_number: 1327567, ticker: "PANW", shares_outstanding: 90850457},
   {name: "Facebook", cik_number: 1326801, ticker: "FB", shares_outstanding: 2871664261},
