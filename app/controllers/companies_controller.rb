@@ -10,8 +10,8 @@ class CompaniesController < ApplicationController
   end
   
   def show
-    @company = Company.find(params[:id])
-    @transactions = [@company, @company.transactions_this_month]
+    @company = Company.where("name like ?", "#{params[:id].downcase.capitalize}%")
+    @transactions = [@company[0], @company[0].transactions]
     render :json => @transactions
   end
 
