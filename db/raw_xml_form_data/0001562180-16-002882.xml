@@ -1,0 +1,254 @@
+<SEC-DOCUMENT>0001562180-16-002882.txt : 20160802
+<SEC-HEADER>0001562180-16-002882.hdr.sgml : 20160802
+<ACCEPTANCE-DATETIME>20160802164210
+ACCESSION NUMBER:		0001562180-16-002882
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20160801
+FILED AS OF DATE:		20160802
+DATE AS OF CHANGE:		20160802
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			HP INC
+		CENTRAL INDEX KEY:			0000047217
+		STANDARD INDUSTRIAL CLASSIFICATION:	COMPUTER & OFFICE EQUIPMENT [3570]
+		IRS NUMBER:				941081436
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1031
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1501 PAGE MILL ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+		BUSINESS PHONE:		6508571501
+
+	MAIL ADDRESS:	
+		STREET 1:		1501 PAGE MILL ROAD
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	HEWLETT PACKARD CO
+		DATE OF NAME CHANGE:	19920703
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			WEISLER DION J
+		CENTRAL INDEX KEY:			0001580693
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-04423
+		FILM NUMBER:		161801061
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O HEWLETT-PACKARD COMPANY
+		STREET 2:		3000 HANOVER STREET
+		CITY:			PALO ALTO
+		STATE:			CA
+		ZIP:			94304
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>primarydocument.xml
+<DESCRIPTION>PRIMARY DOCUMENT
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-08-01</periodOfReport>
+
+    <notSubjectToSection16>false</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0000047217</issuerCik>
+        <issuerName>HP INC</issuerName>
+        <issuerTradingSymbol>HPQ</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001580693</rptOwnerCik>
+            <rptOwnerName>WEISLER DION J</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>1501 PAGE MILL RD</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>PALO ALTO</rptOwnerCity>
+            <rptOwnerState>CA</rptOwnerState>
+            <rptOwnerZipCode>94304</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>true</isDirector>
+            <isOfficer>true</isOfficer>
+            <isTenPercentOwner>false</isTenPercentOwner>
+            <isOther>false</isOther>
+            <officerTitle>President and CEO</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-08-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>31092.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14.18</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>A</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>117110.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-08-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>11685.00</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>14.18</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>105425.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable>
+        <derivativeTransaction>
+            <securityTitle>
+                <value>Restricted Stock Units</value>
+            </securityTitle>
+            <conversionOrExercisePrice>
+                <footnoteId id="F1"/>
+            </conversionOrExercisePrice>
+            <transactionDate>
+                <value>2016-08-01</value>
+            </transactionDate>
+            <deemedExecutionDate></deemedExecutionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>M</transactionCode>
+                <equitySwapInvolved>false</equitySwapInvolved>
+            </transactionCoding>
+            <transactionTimeliness></transactionTimeliness>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>31092.00</value>
+                    <footnoteId id="F2"/>
+                    <footnoteId id="F3"/>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <footnoteId id="F2"/>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <exerciseDate>
+                <footnoteId id="F2"/>
+            </exerciseDate>
+            <expirationDate>
+                <footnoteId id="F2"/>
+            </expirationDate>
+            <underlyingSecurity>
+                <underlyingSecurityTitle>
+                    <value>Common Stock</value>
+                </underlyingSecurityTitle>
+                <underlyingSecurityShares>
+                    <value>31092.00</value>
+                    <footnoteId id="F3"/>
+                </underlyingSecurityShares>
+            </underlyingSecurity>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>0.00</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </derivativeTransaction>
+    </derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">Each restricted stock unit represents a contingent right to receive one share of HP common stock.</footnote>
+        <footnote id="F2">As previously reported, on 8/1/2013, the reporting person was granted 86,547 restricted stock units (&quot;RSUs&quot;), 28,849 of which vested on each of 8/1/2014, 8/1/2015 and 8/1/2016. Dividend equivalent rights accrue with respect to these RSUs when and as dividends are paid on HP common stock. The number of derivative securities in column 5 includes 2,243 vested dividend equivalent rights.</footnote>
+        <footnote id="F3">The share amounts reported reflect the conversion of the awards upon the distribution of the Hewlett Packard Enterprise shares on November 1, 2015.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>/s/ Katie Colendich as Attorneyin-Fact for Dion J. Weisler</signatureName>
+        <signatureDate>2016-08-02</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>

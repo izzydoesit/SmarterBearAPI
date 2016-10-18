@@ -1,0 +1,155 @@
+<SEC-DOCUMENT>0001597033-16-000283.txt : 20161017
+<SEC-HEADER>0001597033-16-000283.hdr.sgml : 20161017
+<ACCEPTANCE-DATETIME>20161017160422
+ACCESSION NUMBER:		0001597033-16-000283
+CONFORMED SUBMISSION TYPE:	4
+PUBLIC DOCUMENT COUNT:		1
+CONFORMED PERIOD OF REPORT:	20161015
+FILED AS OF DATE:		20161017
+DATE AS OF CHANGE:		20161017
+
+ISSUER:		
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Sabre Corp
+		CENTRAL INDEX KEY:			0001597033
+		STANDARD INDUSTRIAL CLASSIFICATION:	SERVICES-COMPUTER PROGRAMMING, DATA PROCESSING, ETC. [7370]
+		IRS NUMBER:				208647322
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3150 SABRE DRIVE
+		CITY:			SOUTHLAKE
+		STATE:			TX
+		ZIP:			76092
+		BUSINESS PHONE:		682 605 1000
+
+	MAIL ADDRESS:	
+		STREET 1:		3150 SABRE DRIVE
+		CITY:			SOUTHLAKE
+		STATE:			TX
+		ZIP:			76092
+
+REPORTING-OWNER:	
+
+	OWNER DATA:	
+		COMPANY CONFORMED NAME:			MENKE SEAN E
+		CENTRAL INDEX KEY:			0001251876
+
+	FILING VALUES:
+		FORM TYPE:		4
+		SEC ACT:		1934 Act
+		SEC FILE NUMBER:	001-36422
+		FILM NUMBER:		161938910
+
+	MAIL ADDRESS:	
+		STREET 1:		C/O IHS INC.
+		STREET 2:		15 INVERNESS WAY EAST
+		CITY:			ENGLEWOOD
+		STATE:			CO
+		ZIP:			80112
+</SEC-HEADER>
+<DOCUMENT>
+<TYPE>4
+<SEQUENCE>1
+<FILENAME>wf-form4_147673464974973.xml
+<DESCRIPTION>FORM 4
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<ownershipDocument>
+
+    <schemaVersion>X0306</schemaVersion>
+
+    <documentType>4</documentType>
+
+    <periodOfReport>2016-10-15</periodOfReport>
+
+    <notSubjectToSection16>0</notSubjectToSection16>
+
+    <issuer>
+        <issuerCik>0001597033</issuerCik>
+        <issuerName>Sabre Corp</issuerName>
+        <issuerTradingSymbol>SABR</issuerTradingSymbol>
+    </issuer>
+
+    <reportingOwner>
+        <reportingOwnerId>
+            <rptOwnerCik>0001251876</rptOwnerCik>
+            <rptOwnerName>MENKE SEAN E</rptOwnerName>
+        </reportingOwnerId>
+        <reportingOwnerAddress>
+            <rptOwnerStreet1>3150 SABRE DRIVE</rptOwnerStreet1>
+            <rptOwnerStreet2></rptOwnerStreet2>
+            <rptOwnerCity>SOUTHLAKE</rptOwnerCity>
+            <rptOwnerState>TX</rptOwnerState>
+            <rptOwnerZipCode>76092</rptOwnerZipCode>
+            <rptOwnerStateDescription></rptOwnerStateDescription>
+        </reportingOwnerAddress>
+        <reportingOwnerRelationship>
+            <isDirector>0</isDirector>
+            <isOfficer>1</isOfficer>
+            <isTenPercentOwner>0</isTenPercentOwner>
+            <isOther>0</isOther>
+            <officerTitle>Executive Vice President</officerTitle>
+            <otherText></otherText>
+        </reportingOwnerRelationship>
+    </reportingOwner>
+
+    <nonDerivativeTable>
+        <nonDerivativeTransaction>
+            <securityTitle>
+                <value>Common Stock</value>
+            </securityTitle>
+            <transactionDate>
+                <value>2016-10-15</value>
+            </transactionDate>
+            <transactionCoding>
+                <transactionFormType>4</transactionFormType>
+                <transactionCode>F</transactionCode>
+                <equitySwapInvolved>0</equitySwapInvolved>
+                <footnoteId id="F1"/>
+            </transactionCoding>
+            <transactionAmounts>
+                <transactionShares>
+                    <value>7034</value>
+                </transactionShares>
+                <transactionPricePerShare>
+                    <value>26.16</value>
+                </transactionPricePerShare>
+                <transactionAcquiredDisposedCode>
+                    <value>D</value>
+                </transactionAcquiredDisposedCode>
+            </transactionAmounts>
+            <postTransactionAmounts>
+                <sharesOwnedFollowingTransaction>
+                    <value>77619</value>
+                </sharesOwnedFollowingTransaction>
+            </postTransactionAmounts>
+            <ownershipNature>
+                <directOrIndirectOwnership>
+                    <value>D</value>
+                </directOrIndirectOwnership>
+            </ownershipNature>
+        </nonDerivativeTransaction>
+    </nonDerivativeTable>
+
+    <derivativeTable></derivativeTable>
+
+    <footnotes>
+        <footnote id="F1">This transaction represents the automatic surrender of shares to the issuer upon vesting of restricted shares units to satisfy the reporting person's tax withholding obligations.</footnote>
+    </footnotes>
+
+    <remarks></remarks>
+
+    <ownerSignature>
+        <signatureName>Steve W. Milton as attorney-in-fact for
+Sean Menke</signatureName>
+        <signatureDate>2016-10-17</signatureDate>
+    </ownerSignature>
+</ownershipDocument>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SEC-DOCUMENT>
