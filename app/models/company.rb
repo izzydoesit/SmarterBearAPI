@@ -34,4 +34,14 @@ class Company < ApplicationRecord
     end
     results
   end
+
+  def transactions_by_direction(dir)
+    directional_transactions = []
+    self.transactions.each { |trans| directional_transactions << trans if trans.direction == "#{dir}" }
+    directional_transactions
+  end
+
+  def format_chart_data(dir)
+    transactions_by_direction(dir).map { |trans| trans.format_chart_data_point }
+  end
 end

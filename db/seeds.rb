@@ -86,4 +86,4 @@ end
 
 Company.all.each { |company| company.update!(confidence_rating: company.rate_confidence) }
 
-Transaction.all.each { |transaction| transaction.destroy if transaction.price_per_share == 0 || transaction.total_value ==0 }
+Transaction.all.each { |transaction| transaction.destroy if transaction.price_per_share == 0 || transaction.total_value == 0 }
