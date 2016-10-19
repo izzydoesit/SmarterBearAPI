@@ -5,6 +5,7 @@ class CreateForms < ActiveRecord::Migration[5.0]
       t.string :dcn
       t.string :sec_form_url
       t.references :insider
+      t.references :transactions
 
       t.timestamps
     end
