@@ -3,3 +3,29 @@ class Transaction < ApplicationRecord
   belongs_to :company
   belongs_to :form
 end
+
+# example of data format needed for chart:
+  # x = shares_outstanding, y = insider_score, z = total_transaction_value
+  # series: [{
+  #           data: [
+  #               { x: 142084800000, y: 10, z: 1500000, name: 'KEOUGH TRACY S', relationship: "Officer", shares: 100000 , pps: 15 },
+  #               { x: 142084800000, y: 10, z: 1500000, name: 'KEOUGH TRACY S', relationship: "Officer", shares: 100000 , pps: 15 }
+  #           ]
+
+  def format_chart_data
+    data = [
+      {            x: self.date_in_milliseconds,
+                   y: self.insider.insider_score,
+                   z: number_to_currency(self.total_value),
+                name: self.insider.name,
+        relationship: self.insider.relationship,
+              shares: self.shares_transacted,
+              pps: number_to_currency(self.price_per_share)
+      }
+    ]
+  end
+
+  def date_in_milliseconds
+    date = DateTime.new(self.date[0..3].to_i,self.date[5..6].to_i,self.date[8..9].to_i)
+    date.strftime('%Q')
+  end
