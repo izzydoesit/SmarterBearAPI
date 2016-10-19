@@ -8,6 +8,7 @@ class CreateTransactions < ActiveRecord::Migration[5.0]
       t.string :date
       t.references :insider, foreign_key: true
       t.references :company, foreign_key: true
+      t.references :form, foreign_key: true
 
       t.timestamps
     end

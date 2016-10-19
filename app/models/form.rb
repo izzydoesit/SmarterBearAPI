@@ -24,7 +24,7 @@ class Form < ApplicationRecord
   end
 
 
-  def parse_xml_form(form, insider_id)
+  def parse_xml_form(form, insider_id, form_id)
     prices = []
     dates = []
     directions = []
@@ -40,7 +40,7 @@ class Form < ApplicationRecord
     end
 
     doc.search('//transactionDate').each do |date|
-      if date.at('value')
+      if date.at('value') 
         dates << date.at('value').text
       end
     end
@@ -64,7 +64,8 @@ class Form < ApplicationRecord
         direction: directions[idx],
         shares_transacted: shares[idx],
         insider_id: insider_id,
-        company_id: Insider.find(insider_id).company.id
+        company_id: Insider.find(insider_id).company.id,
+        form_id: form_id
       }
 
       transaction[:total_value] = total_transaction_value(transaction[:price_per_share], transaction[:shares_transacted])
