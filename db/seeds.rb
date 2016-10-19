@@ -60,6 +60,7 @@ COMPANIES.each do |company|
                 company_id: @company.id)
 
       @insider = Insider.find_by(name: form["filername"])
+      @insider.update(insider_score: @insider.give_insider_score)
     end
 
     Form.create!(date: form["transactiondate"],
