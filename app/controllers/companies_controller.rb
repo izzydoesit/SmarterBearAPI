@@ -11,7 +11,9 @@ class CompaniesController < ApplicationController
   
   def show
     @company = Company.find_by(name: params[:id])
-    @transactions = [@company, @company.transactions]
+    @buys = {buys: @company.format_chart_data("A") }
+    @sells = {sells: @company.format_chart_data("D") }
+    @transactions = [@company, @buys, @sells]
     render :json => @transactions
   end
 
