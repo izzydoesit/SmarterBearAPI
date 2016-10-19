@@ -17,9 +17,9 @@ module TransactionsHelper
     true
   end
 
-  def transactions_this_month_total_value
+  def transactions_total_value
     total = 0
-    self.transactions_this_month.map do |trans|
+    self.transactions.each do |trans|
       trans.direction == "A" ? total += trans.total_value : total -= trans.total_value
     end
     number_to_currency(total)
