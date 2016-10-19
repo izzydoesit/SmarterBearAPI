@@ -21,7 +21,7 @@ class Transaction < ApplicationRecord
   relationship: self.insider.relationship,
         shares: self.shares_transacted,
            pps: number_to_currency(self.price_per_share),
-   date_string: self.date
+   date_string: DateTime.new(self.date[0..3].to_i,self.date[5..6].to_i,self.date[8..9].to_i).strftime('%m-%d-%Y')
       }
   end
 
