@@ -20,7 +20,8 @@ class Transaction < ApplicationRecord
           name: self.insider.name,
   relationship: self.insider.relationship,
         shares: self.shares_transacted,
-           pps: number_to_currency(self.price_per_share)
+           pps: number_to_currency(self.price_per_share),
+   date_string: self.date
       }
   end
 
