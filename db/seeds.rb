@@ -71,10 +71,11 @@ end
 
 Form.all.each do |form|
   insider_id = form.insider.id
+  form_id = form.id
   xml = File.read("db/raw_xml_form_data/#{form.dcn}.xml")
 
   if !xml.empty?
-    transactions = form.parse_xml_form(xml, insider_id)
+    transactions = form.parse_xml_form(xml, insider_id, form_id)
 
     transactions.each do |trans|
       Transaction.create!(trans)
@@ -83,3 +84,5 @@ Form.all.each do |form|
 end
 
 Company.all.each { |company| company.update!(confidence_rating: company.rate_confidence) }
+
+Transaction.all.each { |transaction| transaction.destroy if transaction.price_per_share == 0 || transaction.total_value ==0 }
