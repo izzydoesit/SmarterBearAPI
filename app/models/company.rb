@@ -47,12 +47,8 @@ class Company < ApplicationRecord
     transactions_by_direction(dir).map { |trans| trans.format_chart_data_point }
   end
 
-  def self.sort_by_transaction
-    self.all.sort_by { |company| company.total_value.abs }
-  end
-
   def self.top_5_by_transaction
-    sort_by_transaction.reverse[0..4]
+    self.all.sort_by { |company| company.total_value.abs }.reverse[0..4]
   end
 
   # Example of data format needed for main page chart
@@ -67,11 +63,6 @@ class Company < ApplicationRecord
   #                   '2016-09-22': '16.8',
   #                   '2016-09-23': '602.8',
   #                   '2016-09-24': '44.3'
-  #               },
-  #               'Me': {
-  #                   '2016-09-22': '22.6',
-  #                   '2016-09-23': '494.5',
-  #                   '2016-09-24': '48.9'
   #               }
   #           }
   def self.main_page_chart_data
@@ -89,7 +80,6 @@ class Company < ApplicationRecord
         end
       end
     end
-
     data
   end
 end
