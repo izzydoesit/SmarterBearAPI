@@ -1,7 +1,7 @@
 class Company < ApplicationRecord
   include TransactionsHelper
   # include ActionView::Helpers::NumberHelper
-  
+  has_one :image
   has_many :insiders
   has_many :transactions, through: :insiders
 
