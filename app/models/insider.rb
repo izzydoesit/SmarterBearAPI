@@ -18,6 +18,20 @@ class Insider < ApplicationRecord
     end
   end
 
-  def list_transactions
+  def self.top_5_by_transaction_count
+    self.all.sort_by { |insider| insider.transactions.count }.reverse[0..4]
   end
+
+  def self.main_page_chart_data
+    insider_data = {}
+
+    top_5_by_transaction_count.each do |ins| 
+        insider_data["#{ins.name}"] = {}
+        
+        ins.transactions.each do |trans|
+          insider_data["#{ins.name}"]["#{trans.date}"] = trans.total_value
+        end
+      end
+      insider_data
+    end
 end

@@ -5,6 +5,9 @@ class CompaniesController < ApplicationController
       render :json => @results
     else
       @companies = Company.main_page_chart_data
+      p "*"*50
+      p @companies
+      @companies["top_5_insiders"] = Insider.main_page_chart_data
       render :json => @companies
     end
   end
