@@ -26,6 +26,8 @@ class Company < ApplicationRecord
       company_details = {
         id: company.id,
         name: company.name,
+        ticker: company.ticker,
+        shares_outstanding: number_wth_delimiter(company.shares_outstanding, delimiter: ','),
         confidence: company.confidence_rating,
         transactions_total: company.value_in_dollars(company.total_value),
         insiders: company.insiders.count
@@ -74,16 +76,16 @@ class Company < ApplicationRecord
   #           }
   def self.main_page_chart_data
     data = {}
-    
+
     top_5_by_transaction.each do |comp| 
       data["#{comp.name}"] = {}
-      
-      comp.insiders.each do |ins|
-        data["#{comp.name}"]["#{ins.name}"] = {}
-        
-        ins.transactions.each do |trans|
-          data["#{comp.name}"]["#{ins.name}"]["#{trans.date}"] = trans.total_value
-        
+
+    comp.insiders.each do |ins|
+      data["#{comp.name}"]["#{ins.name}"] = {}
+
+    ins.transactions.each do |trans|
+      data["#{comp.name}"]["#{ins.name}"]["#{trans.date}"] = trans.total_value
+
         end
       end
     end
