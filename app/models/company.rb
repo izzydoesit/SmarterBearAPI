@@ -82,7 +82,7 @@ class Company < ApplicationRecord
         data["#{comp.name}"]["#{ins.name}"] = {}
         
         ins.transactions.each do |trans|
-          data["#{comp.name}"]["#{ins.name}"]["#{trans.date}"] = trans.number_to_currency(trans.total_value)
+          data["#{comp.name}"]["#{ins.name}"]["#{trans.date}"] = trans.total_value
         
         end
       end
