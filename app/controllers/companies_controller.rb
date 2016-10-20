@@ -12,7 +12,7 @@ class CompaniesController < ApplicationController
   
   def show
     @company = Company.find_by(name: params[:id])
-    @company_info = {insider_count: @company.insiders.count, transactions_total: @company.total_value}
+    @company_info = {insider_count: @company.insiders.count, transactions_total: @company.trades_total_value}
     @buys = {buys: @company.format_chart_data("A") }
     @sells = {sells: @company.format_chart_data("D") }
     @transactions = [@company, @buys, @sells, @company_info]

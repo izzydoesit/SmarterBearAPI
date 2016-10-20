@@ -48,7 +48,7 @@ class Company < ApplicationRecord
   end
 
   def self.top_5_by_transaction
-    self.all.sort_by { |company| company.total_value.abs }.reverse[0..4]
+    self.all.sort_by { |company| company.trades_total_value.abs }.reverse[0..4]
   end
 
   # Example of data format needed for main page chart
