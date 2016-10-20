@@ -1,6 +1,6 @@
 class Company < ApplicationRecord
   include TransactionsHelper
-  
+  # include ActionView::Helpers::NumberHelper
   
   has_many :insiders
   has_many :transactions, through: :insiders
@@ -27,7 +27,7 @@ class Company < ApplicationRecord
         id: company.id,
         name: company.name,
         confidence: company.confidence_rating,
-        transactions_total: company.transactions_total_value,
+        transactions_total: company.value_in_dollars(company.total_value),
         insiders: company.insiders.count
       }
       results << company_details
@@ -43,5 +43,51 @@ class Company < ApplicationRecord
 
   def format_chart_data(dir)
     transactions_by_direction(dir).map { |trans| trans.format_chart_data_point }
+  end
+
+  def self.sort_by_transaction
+    self.all.sort_by { |company| company.total_value.abs }
+  end
+
+  def self.top_5_by_transaction
+    sort_by_transaction.reverse[0..4]
+  end
+
+  # Example of data format needed for main page chart
+  # 'Facebook': {
+  #               'Mark Zuckerberg': {
+  #                   '2016-09-22': '500',
+  #                   '2016-09-23': '890',
+  #                   '2016-09-24': '250'
+  #           },
+  # 'Apple': {
+  #               'Tim Cook': {
+  #                   '2016-09-22': '16.8',
+  #                   '2016-09-23': '602.8',
+  #                   '2016-09-24': '44.3'
+  #               },
+  #               'Me': {
+  #                   '2016-09-22': '22.6',
+  #                   '2016-09-23': '494.5',
+  #                   '2016-09-24': '48.9'
+  #               }
+  #           }
+  def self.main_page_chart_data
+    data = {}
+    
+    top_5_by_transaction.each do |comp| 
+      data["#{comp.name}"] = {}
+      
+      comp.insiders.each do |ins|
+        data["#{comp.name}"]["#{ins.name}"] = {}
+        
+        ins.transactions.each do |trans|
+          data["#{comp.name}"]["#{ins.name}"]["#{trans.date}"] = trans.number_to_currency(trans.total_value)
+        
+        end
+      end
+    end
+
+    data
   end
 end
