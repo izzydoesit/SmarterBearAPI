@@ -27,7 +27,7 @@ class Company < ApplicationRecord
         id: company.id,
         name: company.name,
         confidence: company.confidence_rating,
-        monthly_total: company.transactions_this_month_total_value,
+        transactions_total: company.transactions_total_value,
         insiders: company.insiders.count
       }
       results << company_details
