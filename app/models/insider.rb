@@ -26,11 +26,11 @@ class Insider < ApplicationRecord
     insider_data = {}
 
     top_5_by_transaction_count.each do |ins| 
-        insider_data["#{ins.name}"] = {}
-        
-        ins.transactions.each do |trans|
-          insider_data["#{ins.name}"]["#{trans.date}"] = trans.total_value
-        end
+        insider_data["#{ins.name}"] = {
+              position: ins.relationship,
+          total_trades: ins.transactions.count,
+     total_trade_value: ins.number_to_currency(ins.total_value)
+        }
       end
       insider_data
     end
