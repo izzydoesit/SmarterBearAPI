@@ -28,4 +28,8 @@ module TransactionsHelper
   def value_in_dollars(num)
     number_to_currency(num)
   end
+
+  def value_with_commas(num)
+    number_with_delimiter(num)
+  end
 end
