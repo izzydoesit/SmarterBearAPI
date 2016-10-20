@@ -27,7 +27,7 @@ class Company < ApplicationRecord
         id: company.id,
         name: company.name,
         ticker: company.ticker,
-        shares_outstanding: value_with_commas(company.shares_outstanding),
+        shares_outstanding: company.value_with_commas(company.shares_outstanding),
         confidence: company.confidence_rating,
         transactions_total: company.value_in_dollars(company.total_value),
         insiders: company.insiders.count
