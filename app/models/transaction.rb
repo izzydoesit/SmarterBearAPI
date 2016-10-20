@@ -25,7 +25,6 @@ class Transaction < ApplicationRecord
       }
   end
 
-
   def date_in_milliseconds
     date = DateTime.new(self.date[0..3].to_i,self.date[5..6].to_i,self.date[8..9].to_i)
     date.strftime('%Q')
