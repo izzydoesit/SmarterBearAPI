@@ -29,7 +29,7 @@ class Company < ApplicationRecord
         ticker: company.ticker,
         shares_outstanding: company.value_with_commas(company.shares_outstanding),
         confidence: company.confidence_rating,
-        transactions_total: company.value_in_dollars(company.total_value),
+        transactions_total: company.value_in_dollars(company.trades_total_value),
         insiders: company.insiders.count
       }
       results << company_details
