@@ -15,8 +15,8 @@ class Transaction < ApplicationRecord
 
   def format_chart_data_point
     data_point = { x: self.date_in_milliseconds.to_i,
-             y: self.insider.insider_score,
-             z: self.total_value,
+             y: self.total_value,
+             z: self.insider.insider_score,
           name: self.insider.name,
   relationship: self.insider.relationship,
         shares: self.shares_transacted,
