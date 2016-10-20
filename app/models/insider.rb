@@ -17,4 +17,7 @@ class Insider < ApplicationRecord
         self.insider_score = 2
     end
   end
+
+  def list_transactions
+  end
 end

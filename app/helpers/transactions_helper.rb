@@ -17,11 +17,15 @@ module TransactionsHelper
     true
   end
 
-  def transactions_total_value
+  def total_value
     total = 0
     self.transactions.each do |trans|
       trans.direction == "A" ? total += trans.total_value : total -= trans.total_value
     end
-    number_to_currency(total)
+    total
+  end
+
+  def value_in_dollars(num)
+    number_to_currency(num)
   end
 end
