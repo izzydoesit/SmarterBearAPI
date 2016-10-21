@@ -69,13 +69,13 @@ class Company < ApplicationRecord
     data = {}
 
     top_5_by_transaction.each do |comp| 
-      data["#{comp.name}"] = {}
+      data[comp.name] = {}
 
       comp.insiders.each do |ins|
-        data["#{comp.name}"]["#{ins.name}"] = {}
+        data[comp.name][ins.name] = Hash.new(0)
 
         ins.transactions.each do |trans|
-          data["#{comp.name}"]["#{ins.name}"]["#{trans.date}"] = trans.total_value
+          data[comp.name][ins.name][trans.date] += trans.total_value.abs
 
         end
       end
