@@ -17,7 +17,7 @@ module TransactionsHelper
     true
   end
 
-  def total_value
+  def trades_total_value
     total = 0
     self.transactions.each do |trans|
       trans.direction == "A" ? total += trans.total_value : total -= trans.total_value

@@ -27,11 +27,18 @@ class Insider < ApplicationRecord
 
     top_5_by_transaction_count.each do |ins| 
         insider_data["#{ins.name}"] = {
+                  name: ins.name,
+               company: ins.company.name,
               position: ins.relationship,
           total_trades: ins.transactions.count,
-     total_trade_value: ins.number_to_currency(ins.total_value)
+     total_trade_value: ins.number_to_currency(ins.trades_total_value)
         }
       end
       insider_data
+    end
+
+    def format_name
+      formatted_name = self.name.split.map! { |n| n.downcase.capitalize }
+      last_name = "jeff"
     end
 end

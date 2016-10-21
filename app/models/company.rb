@@ -29,7 +29,7 @@ class Company < ApplicationRecord
         ticker: company.ticker,
         shares_outstanding: company.value_with_commas(company.shares_outstanding),
         confidence: company.confidence_rating,
-        transactions_total: company.value_in_dollars(company.total_value),
+        transactions_total: company.value_in_dollars(company.trades_total_value),
         insiders: company.insiders.count
       }
       results << company_details
@@ -48,7 +48,7 @@ class Company < ApplicationRecord
   end
 
   def self.top_5_by_transaction
-    self.all.sort_by { |company| company.total_value.abs }.reverse[0..4]
+    self.all.sort_by { |company| company.trades_total_value.abs }.reverse[0..4]
   end
 
   # Example of data format needed for main page chart
@@ -69,13 +69,13 @@ class Company < ApplicationRecord
     data = {}
 
     top_5_by_transaction.each do |comp| 
-      data["#{comp.name}"] = {}
+      data[comp.name] = {}
 
       comp.insiders.each do |ins|
-        data["#{comp.name}"]["#{ins.name}"] = {}
+        data[comp.name][ins.name] = Hash.new(0)
 
         ins.transactions.each do |trans|
-          data["#{comp.name}"]["#{ins.name}"]["#{trans.date}"] = trans.total_value
+          data[comp.name][ins.name][trans.date] += trans.total_value.abs
 
         end
       end
