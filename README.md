@@ -2,6 +2,8 @@
 
 Rails API that serves SEC-scraped stock market data as JSON  to [Insider Client] (https://github.com/kimstephenson/insiderClient2).
 
+![homepage] (https://github.com/everysum1/insiderAPI/blob/development/app/assets/images/SmarterBearCompany.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
