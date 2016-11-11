@@ -1,6 +1,6 @@
 # Insider API
 
-Rails API that serves SEC-scraped stock market data as JSON  to [Insider Client] (https://github.com/kimstephenson/insiderClient2). [Live] (https://yourinsider.herokuapp.com) version 
+Rails API that serves SEC-scraped stock market data as JSON  to [Insider Client] (https://github.com/kimstephenson/insiderClient2) (repo). You can find live version [here] (https://yourinsider.herokuapp.com). 
 
 ![homepage] (https://github.com/everysum1/insiderAPI/blob/development/app/assets/images/SmarterBearHomepage.png)
 
@@ -45,7 +45,10 @@ heroku open
 
 ## Built With
 
-* [Ruby on Rails](http://api.rubyonrails.org/) - The web framework used
+* [Ruby on Rails](http://api.rubyonrails.org/) - Backend API framework used
+* [React](https://facebook.github.io/react) - Front end UI framework used
+* [Highcharts](https://www.highcharts.com) - Data visualization library
+* [Redux](https://www.reduxjs.org) - Predictable state container used in front end application
 * [PostgreSQL](https://www.postgresql.org/docs/) - Database used
 * [HTTParty](https://github.com/jnunemaker/httparty) - Library used for making HTTP requests
 
