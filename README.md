@@ -3,7 +3,7 @@
 Rails API that requests insider transactions from SEC servers, scrapes FTP servers for corresponding XML files, parses files into database objects using [Nokogiri](https://www.nokogiri.com), and serves up JSON-formatted information to [Insider Client] (https://github.com/kimstephenson/insiderClient2) (repo). You can find live version [here] (https://yourinsider.herokuapp.com). 
 
 ![homepage] (https://github.com/everysum1/insiderAPI/blob/development/app/assets/images/SmarterBearHomepage.png)
-![company-page] (https://github.com/everysum/insiderAPI/blob/development/app/assets/images/SmarterBearCompany.png)
+![company-page] (https://github.com/everysum1/insiderAPI/blob/development/app/assets/images/SmarterBearCompany.png)
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
