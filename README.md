@@ -1,6 +1,6 @@
 # Insider API
 
-Rails API that serves SEC-scraped stock market data as JSON  to [Insider Client] (https://github.com/kimstephenson/insiderClient2).
+Rails API that serves SEC-scraped stock market data as JSON  to [Insider Client] (https://github.com/kimstephenson/insiderClient2). [Live] (https://yourinsider.herokuapp.com) version 
 
 ![homepage] (https://github.com/everysum1/insiderAPI/blob/development/app/assets/images/SmarterBearHomepage.png)
 
