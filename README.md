@@ -11,6 +11,7 @@ These instructions will get you a copy of the project up and running on your loc
 ```
 ruby 2.3.1
 bundler 1.12.5
+rails 5.0.0
 ```
 
 ### Installing
