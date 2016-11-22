@@ -59,7 +59,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 
 ## Authors
 
-* **Israel Matos** - *Initial work* - [Github](https://github.com/everysum1)
+* **Israel Matos** - [Github](https://github.com/everysum1)
 * **Kim Stephenson** - [Github](https://github.com/kimstephenson)
 * **Sam Parker** - [Github](https://github.com/samuelparker)
 * **Youna Yang** - [Github](https://github.com/y0una)
