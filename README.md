@@ -1,9 +1,10 @@
 # Insider API
 
-Rails API that requests insider transactions from SEC servers, scrapes FTP servers for corresponding XML files, parses files into database objects using [Nokogiri](https://www.nokogiri.org), and serves up JSON-formatted information to [Insider Client] (https://github.com/kimstephenson/insiderClient2) (repo). You can find live version [here] (https://yourinsider.herokuapp.com). 
+Ever wanted to know what the top insiders at the most active companies are doing with their shares? This Rails API requests insider transactions from SEC servers, scrapes FTP servers for corresponding XML files, parses files into database objects using [Nokogiri](https://www.nokogiri.org), and serves up JSON-formatted information to [Insider Client](https://yourinsider.herokuapp.com) (live). You can also check out the Github repo [here](https://github.com/everysum1/insiderClient). 
 
 ![homepage] (https://github.com/everysum1/insiderAPI/blob/development/app/assets/images/SmarterBearHomepage.png)
 ![company-page] (https://github.com/everysum1/insiderAPI/blob/development/app/assets/images/SmarterBearCompany.png)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
@@ -39,8 +40,13 @@ bundle exec rspec spec
 
 ## Deployment
 
+You must have Heroku CLI installed and be logged in to Heroku in order to deploy live via Heroku servers
+(Please see the [documentation](https://devcenter.heroku.com) to get set up with Heroku)
+
+Then, after installation and login, via the command line
 ```
-heroku open
+$ heroku create
+$ heroku open
 ```
 
 ## Built With
