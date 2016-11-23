@@ -49,13 +49,9 @@ heroku open
 * [React](https://facebook.github.io/react) - Front end UI framework used
 * [Highcharts](https://www.highcharts.com) - Data visualization library
 * [Redux](https://www.reduxjs.org) - Predictable state container used in front end application
+* [Nokogiri](https://nokogiri.org) - XML parser used
 * [PostgreSQL](https://www.postgresql.org/docs/) - Database used
 * [HTTParty](https://github.com/jnunemaker/httparty) - Library used for making HTTP requests
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 
 ## Authors
 
@@ -63,8 +59,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 * **Kim Stephenson** - [Github](https://github.com/kimstephenson)
 * **Sam Parker** - [Github](https://github.com/samuelparker)
 * **Youna Yang** - [Github](https://github.com/y0una)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
