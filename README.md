@@ -2,7 +2,7 @@
 
 Ever wanted to see at a glance what the top insiders from the hottest companies are doing with their shares of company stock?
 
-This Rails API does all the back end data processing to make that happen.  It requests insider transactions from SEC servers, scrapes FTP servers for corresponding XML files, parses files into database objects using [Nokogiri](https://www.nokogiri.org), and serves up JSON-formatted information to deployed front end [Insider Client](https://yourinsider.herokuapp.com). 
+This Rails API does all the back end data processing to make that happen.  It requests insider transactions from SEC servers, scrapes FTP servers for corresponding XML files, parses files into database objects using [Nokogiri](https://www.nokogiri.org), and serves up JSON-formatted information to deployed front end [Smarter Bear Client](https://yourinsider.herokuapp.com). 
 
 You can also check out the Github repo [here](https://github.com/everysum1/insiderClient). 
 
