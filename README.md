@@ -6,9 +6,9 @@ This Rails API does all the back end data processing to make that happen.  It re
 
 You can also check out the Github repo [here](https://github.com/everysum1/insiderClient). 
 
-![homepage](https://github.com/izzydoesit/insiderAPI/blob/development/app/assets/images/SmarterBearHomepage.png)
+![homepage](https://github.com/izzydoesit/SmarterBearAPI/blob/development/app/assets/images/SmarterBearHomepage.png)
 
-![company-page](https://github.com/izzydoesit/insiderAPI/blob/development/app/assets/images/SmarterBearCompany.png)
+![company page](https://github.com/izzydoesit/SmarterBearAPI/blob/development/app/assets/images/SmarterBearCompany.png)
 
 ## Getting Started
 
